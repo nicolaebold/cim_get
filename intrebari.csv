@@ -1,0 +1,1001 @@
+﻿ID;Statement;Keywords;Degree difficulty;Course;Chapter;University
+1;Which of the following is an operating system?;system, operating;0.86;ICT;Operating systems;University of Pitesti
+2;Two differences between Windows and Linux are:;system, operating, Windows;0.26;ICT;Operating systems;University of Pitesti
+3;"What is the file path for the file ""hello.txt"" found in partition D:, in the folder ""Lucrari""?";path, system;0.03;ICT;Operating systems;University of Pitesti
+4;How many bits form a byte?;storage, system;0.97;ICT;Operating systems;University of Pitesti
+5;Which of these variants is a storage-related hardware?;hardware, storage, system;0.32;ICT;Operating systems;University of Pitesti
+6;The Microsoft Word program is;Word, category;0.34;ICT;Microsoft Word;"""1 Decembrie 1918"" University of Alba-Iulia"
+7;The extension of a file created in Word is:;Word, extension;0.82;ICT;Microsoft Word;"""1 Decembrie 1918"" University of Alba-Iulia"
+8;Selecting the entire content of a document is done with the key combination:;keyboard shortcut, selecting, Word;0.11;ICT;Microsoft Word;"""1 Decembrie 1918"" University of Alba-Iulia"
+9;The process of removing an unwanted part of an image is called;image, editing, Word;0.99;ICT;Microsoft Word;"""1 Decembrie 1918"" University of Alba-Iulia"
+10;What is the name of the direction of a page used for viewing and printing?;Word, formatting;0.35;ICT;Microsoft Word;University of Pitesti
+11;A program that is used to view websites is called:;browser, Internet;0.56;ICT;Internet;"""1 Decembrie 1918"" University of Alba-Iulia"
+12;What is the term for unsolicited emails?;Internet, email;0.59;ICT;Internet;University of Pitesti
+13;TCP/IP este:;protocol, Internet;0.99;ICT;Internet;University of Pitesti
+14;URL means:;browser, URL, Internet;0.16;ICT;Internet;University of Pitesti
+15;Which of the following variants is not a browser?;browser, Internet;0.02;ICT;Internet;University of Pitesti
+16;The step-by-step procedure for solving a problem is called:;programming, algorithm;0.67;Programming;Algorithms;University of Pitesti
+17;This characteristic of algorithms often draws the line between what is feasible and what is impossible.;programming, algorithm, characteristic;0.17;Programming;Algorithms;University of Pitesti
+18;A water lily covers the surface of the water in 30 days. How many days do it take to cover half the surface, if the water lily doubles its surface every day?;programming, exercise;0.57;Programming;Algorithms;University of Pitesti
+19;What is the result of the expression: (5 > 7) AND (0 < 2 * 5 < 15)?;programming, boolean, exercise;0.99;Programming;Algorithms;University of Pitesti
+20;What is the minimum number of comparisons to sort ascendingly the sequence of numbers: 2, 3, 5, 1, 4?;programming, exercise, sort;0.07;Programming;Algorithms;University of Pitesti
+21;What is the name of the intersection of a column and a row in a worksheet?;Excel, row, line, cell;0.33;Programming;Algorithms;University of Pitesti
+22;Ce funcție din Excel returnează suma unui interval de numere?;function, Excel, sum;0.17;ICT;Microsoft Excel;University of Pitesti
+23;The process of arranging the elements of a column in a particular sequence or order is known as:;sort, Excel;0.65;ICT;Microsoft Excel;University of Pitesti
+24;In Excel, the rows are numbered with:;Excel, row, line, cell;0.74;ICT;Microsoft Excel;University of Pitesti
+25;Which function in Excel returns the average of a range of numbers?;function, Excel, average;0.16;ICT;Microsoft Excel;University of Pitesti
+26;Which of the following is an operating system?;operating, system;0.6;ICT;Operating systems;University of Pitesti
+27;Define a mobile operating system.;operating, system;0.16;ICT;Operating systems;University of Pitesti
+28;Give two differences between Windows and Linux systems.;operating, Windows;0.33;ICT;Operating systems;University of Pitesti
+29;Which is the file path for the file “hello.txt” found on Desktop?;path, file;0.73;ICT;Operating systems;University of Pitesti
+30;Describe the Linux operating system in 300 words.;operating, Linux;0.37;ICT;Operating systems;University of Pitesti
+31;Which library is included in C++ to work with files?;C++, library;0.45;Programming;Algorithms;"""1 Decembrie 1918"" University of Alba-Iulia"
+32;Write a code to determine whether a string is a palindrome.;string, palindrome;0.14;Programming;Algorithms;"""1 Decembrie 1918"" University of Alba-Iulia"
+33;What is potentially wrong with the following Android code?;Android, code;0.96;Programming;Algorithms;"""1 Decembrie 1918"" University of Alba-Iulia"
+34;Should you encrypt confidential data?;encryption, data;0.92;Programming;Algorithms;"""1 Decembrie 1918"" University of Alba-Iulia"
+35;Which of these is an item of hardware to do with computers?;hardware, item;0.07;ICT;Operating systems;University of Pitesti
+36;Which is the best application to use to write a letter?;application, writing;0.26;Programming;Algorithms;"""1 Decembrie 1918"" University of Alba-Iulia"
+37;How many bits make a byte?;bite, byte;0.19;ICT;Operating systems;University of Pitesti
+38;First search engine on internet is:;search, engine;1;ICT;Internet;University of Pitesti
+39;Give two differences between Windows and Android systems.;operating, Windows;0.23;ICT;Operating systems;University of Pitesti
+40;Define a desktop operating system.;operating, system;0.71;ICT;Operating systems;University of Pitesti
+41;Microsoft Windows is an:;operating, Windows;0.96;ICT;Operating systems;University of Pitesti
+42;Mobile device applications are:;operating, applications;0.01;ICT;Operating systems;University of Pitesti
+43;Which of these is a free operating system?;operating, system;0.69;ICT;Operating systems;University of Pitesti
+44;What is a URL?;Internet, link;0.77;ICT;Internet;University of Pitesti
+45;1 GB is equal to;hardware, gigabyte;0.5;ICT;Operating systems;University of Pitesti
+46;Explain the key idea of branch and bound algorithms.;algorithm, graph;0.58;Programming;Algorithms;"""1 Decembrie 1918"" University of Alba-Iulia"
+47;Use the greedy coin-change algorithm to make change using quarters (25 cents), dimes (10 cents), nickels (5 cents), and pennies (1 cent), for 92 cents. How many coins did you use?;algorithm, greedy;0.98;Programming;Algorithms;"""1 Decembrie 1918"" University of Alba-Iulia"
+48;Find out whether any number given is prime.;algorithm, prime;0.67;Programming;Algorithms;"""1 Decembrie 1918"" University of Alba-Iulia"
+49;Find the largest value in an array.;algorithm, array;0.8;Programming;Algorithms;"""1 Decembrie 1918"" University of Alba-Iulia"
+50;What is the extension of a file?;file, extension;0.33;ICT;Operating systems;University of Pitesti
+51;What is the extension of a file?;file, extension;0.36;ICT;Operating systems;University of Pitesti
+52;What is the role of the Start button on the taskbar?;Start, taskbar;0.87;ICT;Operating systems;"""1 Decembrie 1918"" University of Alba-Iulia"
+53;How can a folder be created?;folder, operating;0.82;ICT;Operating systems;"""1 Decembrie 1918"" University of Alba-Iulia"
+54;Find the maximum number between two given integers.;algorithm, maximum;0.04;Programming;Algorithms;"""1 Decembrie 1918"" University of Alba-Iulia"
+55;What is a partition?;partition, operating;0.46;ICT;Operating systems;"""1 Decembrie 1918"" University of Alba-Iulia"
+56;What is a file?;file, operating;0.83;ICT;Operating systems;"""1 Decembrie 1918"" University of Alba-Iulia"
+57;What is a folder?;folder, operating;0.24;ICT;Operating systems;"""1 Decembrie 1918"" University of Alba-Iulia"
+58;Define a window in the GUI of an operating system.;window, operating;0.11;ICT;Operating systems;"""1 Decembrie 1918"" University of Alba-Iulia"
+59;What piece of hardware is the CPU?;hardware, operating;0.2;ICT;Operating systems;"""1 Decembrie 1918"" University of Alba-Iulia"
+60;What is found by applying Euclid’s algorithm?;algorithm, Euclid;0.32;Programming;Algorithms;"""1 Decembrie 1918"" University of Alba-Iulia"
+61;Write a program which counts  the b’s in “bibliography”.;algorithm, letter;0.76;Programming;Algorithms;"""1 Decembrie 1918"" University of Alba-Iulia"
+62;What is a byte?;byte, operating;0.57;ICT;Operating systems;"""1 Decembrie 1918"" University of Alba-Iulia"
+63;What is the decimal value of 01100010?;decimal, binary;0.84;Programming;Algorithms;"""1 Decembrie 1918"" University of Alba-Iulia"
+64;What is a search engine?;Internet, search;0.2;ICT;Internet;University of Pitesti
+65;Choose the search engine from the next variants:;Internet, search;0.01;ICT;Internet;University of Pitesti
+66;What is a TCP/IP?;Internet, protocol;0.95;ICT;Internet;University of Pitesti
+67;What is an algorithm?;algorithm, operating;0.21;Programming;Algorithms;"""1 Decembrie 1918"" University of Alba-Iulia"
+68;Which of the algorithms finds the largest common divider of two numbers?;algorithm, Euclid;0.92;Programming;Algorithms;"""1 Decembrie 1918"" University of Alba-Iulia"
+69;Write a short text about partitions.;partition, operating;0.07;ICT;Operating systems;"""1 Decembrie 1918"" University of Alba-Iulia"
+70;A water lily covers the water surface in 30 days. How many days are needed for covering half the surface, if the lily is doubling its surface each day?;algorithm, water lily;0.5;Programming;Algorithms;"""1 Decembrie 1918"" University of Alba-Iulia"
+71;What is the taskbar?;operating, taskbar;0.59;ICT;Operating systems;"""1 Decembrie 1918"" University of Alba-Iulia"
+72;What is the taskbar?;operating, taskbar;0.38;ICT;Operating systems;"""1 Decembrie 1918"" University of Alba-Iulia"
+73;What is wrong with the following piece of code?;algorithm, code;0.61;Programming;Algorithms;"""1 Decembrie 1918"" University of Alba-Iulia"
+74;What is wrong with the following piece of code?;algorithm, code;0.16;Programming;Algorithms;"""1 Decembrie 1918"" University of Alba-Iulia"
+75;What is an array?;programming, code;0.26;Programming;Algorithms;"""1 Decembrie 1918"" University of Alba-Iulia"
+76;Which is the type used for characters in Java?;;1;Programming;Algorithms;"""1 Decembrie 1918"" University of Alba-Iulia"
+77;Which is the solution for the equation 100*x=200?;;0.19;Mathematics;Equations;University of Agronomic Sciences and Veterinary Medicine Bucharest
+78;Which is the integer which solves the inequation 2^x<1024?;;0.53;Mathematics;Equations;University of Agronomic Sciences and Veterinary Medicine Bucharest
+79;Which is the account that registers the VAT in lei?;;0.12;Accounting;Accounts;University of Agronomic Sciences and Veterinary Medicine Bucharest
+80;If 1+1=0, then 0+1=...?;;0.33;Programming;Algorithms;"""1 Decembrie 1918"" University of Alba-Iulia"
+81;How many MB has a GB?;;0.85;Programming;Algorithms;"""1 Decembrie 1918"" University of Alba-Iulia"
+82;Where are located the Ural Mountains?;;0.57;Geography;Landforms;University of Agronomic Sciences and Veterinary Medicine Bucharest
+83;Write down the backtracking function for the dames problems.;;0.32;Programming;Algorithms;"""1 Decembrie 1918"" University of Alba-Iulia"
+84;Which is the basic cell of the brain?;;0.13;Human anatomy;Nervous system;University of Pitesti
+85;Write down the most important parts of a genetic algorithm.;;0.86;Programming;Algorithms;"""1 Decembrie 1918"" University of Alba-Iulia"
+86;For the situation of the agromarketing , the following references can be made;;0.22;Marketing;Agromarketing;University of Agronomic Sciences and Veterinary Medicine Bucharest
+87;Which of the stages of the transition were manifested in the periods mentioned below;;0.7;Economic Policies;Agricultural Policies;University of Agronomic Sciences and Veterinary Medicine Bucharest
+88;The importance of knowing access to healthy food is based on very important elements;;0.13;Economic Policies;Agricultural Policies;University of Agronomic Sciences and Veterinary Medicine Bucharest
+89;Which of the food consumption needs is manifested in humans;;0.22;Economics 101;Needs;University of Agronomic Sciences and Veterinary Medicine Bucharest
+90;In organizing the study of the demand for food products and culinary preparations, certain principles must be taken into account;;0.64;Economics 101;Needs;University of Agronomic Sciences and Veterinary Medicine Bucharest
+91;The behavior shown by the consumer is considered the last stage of the structure of purchase documents , these documents being;;0.23;Economics 101;Needs;University of Agronomic Sciences and Veterinary Medicine Bucharest
+92;What is the element that attracts, first of all , a consumer when he wants to buy a product;;0.43;Economics 101;Needs;University of Agronomic Sciences and Veterinary Medicine Bucharest
+93;The amounts obtained in the case of organic crops are;;0.28;Economics 101;Production;University of Agronomic Sciences and Veterinary Medicine Bucharest
+94;As a subdivision of the global market we have;;0.22;Economics 101;Production;University of Agronomic Sciences and Veterinary Medicine Bucharest
+95;If we study the socioeconomic characteristics, attitudes, opinions, motivations and behaviors of different people customers , we can use the following forms of inquiry;;0.22;Economics 101;Production;University of Agronomic Sciences and Veterinary Medicine Bucharest
+96;The seasonality coefficients are established;;0.52;Economics 101;Production;University of Agronomic Sciences and Veterinary Medicine Bucharest
+97;In agromarketing  knowledge of the forecasting horizon of agricultural markets in Romania can be delimited in the following forms;;0.79;Marketing;Agromarketing;University of Agronomic Sciences and Veterinary Medicine Bucharest
+98;Do you think that those companies that are identified as brands, having a high notoriety, should allocate more funds for their promotion;;0.39;Marketing;Agromarketing;University of Agronomic Sciences and Veterinary Medicine Bucharest
+99;What types of markets do you know;;0.89;Marketing;Agromarketing;University of Agronomic Sciences and Veterinary Medicine Bucharest
+100;If we refer to the Reserve Fund (of the Romanian State), we must mention that;;0.57;Economic Policies;Agricultural Policies;University of Agronomic Sciences and Veterinary Medicine Bucharest
+101;If a person who comes from a country that is not a member of the European Union, establishes in Romania, a company dealing with the commercialization of agricultural products, this company;;0.45;Economics 101;Production;University of Agronomic Sciences and Veterinary Medicine Bucharest
+102;What do you think is the biggest disadvantage of small farmers from those listed below;;0.05;Economics 101;Production;University of Agronomic Sciences and Veterinary Medicine Bucharest
+103;What would be the advantage/s of the farmers if they were to associate;;0.24;Economics 101;Production;University of Agronomic Sciences and Veterinary Medicine Bucharest
+104;Differentiated levels of sales expenses is determined by the factor:;;0.12;Economics 101;Production;University of Agronomic Sciences and Veterinary Medicine Bucharest
+105;The notion of sector refers to;;0.04;Economics 101;Production;University of Agronomic Sciences and Veterinary Medicine Bucharest
+106;The dimensional structure of the agro-food chain includes;;0.31;Economics 101;Production;University of Agronomic Sciences and Veterinary Medicine Bucharest
+107;The following types of sectors can be defined;;0.45;Economics 101;Production;University of Agronomic Sciences and Veterinary Medicine Bucharest
+108;SWOT analysis refers to;;0.04;Management;Analysis;University of Pitesti
+109;The branch can be considered;;0.3;Management;Analysis;University of Pitesti
+110;Production lines can be approached on several levels;;0.45;Economics 101;Production;University of Agronomic Sciences and Veterinary Medicine Bucharest
+111;The main activities that define a sector can be considered;;0.15;Economics 101;Production chain;University of Agronomic Sciences and Veterinary Medicine Bucharest
+112;The study of the agromarketing chain includes;;0.53;Economics 101;Production chain;University of Agronomic Sciences and Veterinary Medicine Bucharest
+113;Which are considered subsectors functions?;;0.42;Economics 101;Production chain;University of Agronomic Sciences and Veterinary Medicine Bucharest
+114;Conditions the success of an agri-food sector is conditioned by the following factors;;0.09;Economics 101;Production chain;University of Agronomic Sciences and Veterinary Medicine Bucharest
+115;32. What types of economic agents can be involved in the chain of agricultural and agri-food products;;0.61;Economics 101;Production chain;University of Agronomic Sciences and Veterinary Medicine Bucharest
+116;There are situations in which agricultural producers and/or processing sectors substitute specialized intermediate economic agents , situations that arise due to;;0.97;Economics 101;Production chain;University of Agronomic Sciences and Veterinary Medicine Bucharest
+117;The opportunities of a company fall into;;0.2;Management;Analysis;University of Pitesti
+118;Agri-food marketing policies follow;;0.26;Economic Policies;Agricultural Policies;University of Agronomic Sciences and Veterinary Medicine Bucharest
+119;The complexity of the economic-financial analysis is due to the fact that in the economy there are the following situations;;0.54;Management;Analysis;University of Pitesti
+120;Economic-financial analysis development scheme includes;;0.11;Management;Analysis;University of Pitesti
+121;The influencing factors according to their character in a causal relationship can be;;0.98;Management;Analysis;University of Pitesti
+122;The economic-financial analysis assumes;;0.51;Management;Analysis;University of Pitesti
+123;The influencing factors according to the intensity of their action can be;;0.77;Management;Analysis;University of Pitesti
+124;Among the indicators used in the economic profitability analysis are:;;0.27;Management;Analysis;University of Pitesti
+125;The most used methods in sociological analysis are;;0.83;Management;Analysis;University of Pitesti
+126;Among the indicators used in establishing production  corresponding to the profitability threshold is counted;;0.53;Management;Analysis;University of Pitesti
+127;Chain substitution of factors allows;;0.87;Management;Analysis;University of Pitesti
+128;Comparison method it can be established;;0.28;Management;Analysis;University of Pitesti
+129;Balancing method is applied if there is a relationship between the variables of a model;;0.3;Management;Analysis;University of Pitesti
+130;The economic efficiency coefficients can be determined as follows;;0.42;Management;Analysis;University of Pitesti
+131;Chain substitution method and the balance method are based on;;0.54;Management;Analysis;University of Pitesti
+132;By the position debtors- miscellaneous , in accounting it is understood;;0.06;Accounting;Accounts;University of Agronomic Sciences and Veterinary Medicine Bucharest
+133;Indicate which of the following positions it represents intangible assets;;0.87;Accounting;Assets;"""1 Decembrie 1918"" University of Alba-Iulia"
+134;In the category of methods and techniques of qualitative analysis?;;0.04;Management;Analysis;University of Pitesti
+135;In the category of methods and techniques of qualitative analysis;;0.59;Management;Analysis;University of Agronomic Sciences and Veterinary Medicine Bucharest
+136;The information necessary to carry out the economic-financial analysis can be provided by;;0.36;Management;Analysis;University of Agronomic Sciences and Veterinary Medicine Bucharest
+137;Performing the economic-financial analysis must take into account;;0.05;Management;Analysis;University of Agronomic Sciences and Veterinary Medicine Bucharest
+138;In the category of requirements that must be respected by the information necessary for the economic-financial analysis;;0.25;Management;Analysis;University of Agronomic Sciences and Veterinary Medicine Bucharest
+139;The standard gross margin is calculated in vegetable and animal production depending on;;0.53;Economics 101;Indicators;University of Agronomic Sciences and Veterinary Medicine Bucharest
+140;In the economic-financial activity of the economic agent, the quantifiable factors that influence the processes or phenomena can be;;0.98;Management;Analysis;University of Agronomic Sciences and Veterinary Medicine Bucharest
+141;According to the ratio between the moment in which it is carried out and that of the unfolding of the phenomenon, the analysis can be;;0.71;Management;Analysis;University of Agronomic Sciences and Veterinary Medicine Bucharest
+142;According to the way of tracking the phenomena over time, the analysis can be;;0.66;Management;Analysis;University of Agronomic Sciences and Veterinary Medicine Bucharest
+143;Among the stages of the analysis are counted;;0.85;Management;Analysis;University of Agronomic Sciences and Veterinary Medicine Bucharest
+144;By means of the economic-financial analysis at the economic agent level, it can be established;;0.42;Management;Analysis;University of Agronomic Sciences and Veterinary Medicine Bucharest
+145;Express goods production;;0.53;Economics 101;Indicators;University of Agronomic Sciences and Veterinary Medicine Bucharest
+146;Production cost for a crop or a category of animals with main production and secondary production is determined with the help of the following elements;;0.81;Economics 101;Indicators;University of Agronomic Sciences and Veterinary Medicine Bucharest
+147;Direct influencing factors of profit per product are;;0.19;Economics 101;Indicators;University of Agronomic Sciences and Veterinary Medicine Bucharest
+148;Direct factors influencing the turnover can be;;0.7;Economics 101;Indicators;University of Agronomic Sciences and Veterinary Medicine Bucharest
+149;Component elements of the exploitation result are;;0.62;Economics 101;Indicators;University of Agronomic Sciences and Veterinary Medicine Bucharest
+150;The profit related to the turnover represents;;0.19;Economics 101;Indicators;University of Agronomic Sciences and Veterinary Medicine Bucharest
+151;Rate of return expresses;;0.07;Economics 101;Indicators;University of Agronomic Sciences and Veterinary Medicine Bucharest
+152;The total increase in weight is programmed as the product of;;0.24;Economics 101;Indicators;University of Agronomic Sciences and Veterinary Medicine Bucharest
+153;Which of the following elements is included in the production calculation corresponding to the critical threshold?;;0.08;Economics 101;Indicators;University of Agronomic Sciences and Veterinary Medicine Bucharest
+154;The component elements of the rate of return on capital consumed are;;0.89;Economics 101;Indicators;University of Agronomic Sciences and Veterinary Medicine Bucharest
+155;Which of the following elements are included in the added value ?;;0.68;Economics 101;Indicators;University of Agronomic Sciences and Veterinary Medicine Bucharest
+156;Of raw materials in the production activity represents an expense for the company and is recorded in the accounting after the following accounting formula;;0.62;Accounting;Accounts;University of Agronomic Sciences and Veterinary Medicine Bucharest
+157; The purchase of a machine from a supplier, with the invoice issued later, requires the following accounting entry;;0.3;Accounting;Accounts;University of Agronomic Sciences and Veterinary Medicine Bucharest
+158;Value equation of the account balance or the balance sheet with two separate sections is;;0.36;Accounting;Accounts;University of Agronomic Sciences and Veterinary Medicine Bucharest
+159;The value of the linear monthly depreciation , calculated for a machine with an input value of 12,000 lei and a useful life of 10 years, is;;0.03;Accounting;Accounts;University of Agronomic Sciences and Veterinary Medicine Bucharest
+160;Depreciation value calculated for a greenhouse using the straight-line depreciation method with an input value of 8,000 lei and a useful life of 8 years is;;0.6;Accounting;Accounts;University of Agronomic Sciences and Veterinary Medicine Bucharest
+161;The expenses, according to their importance in the production process or after  the connection with the technological process, are classified in;;0.87;Economics 101;Indicators;University of Agronomic Sciences and Veterinary Medicine Bucharest
+162;The expenses, according to the method of distribution and inclusion in the expenses of the object of calculation , are classified as follows;;0.48;Economics 101;Indicators;University of Agronomic Sciences and Veterinary Medicine Bucharest
+163;Through the lens of action QUANTITY production , expenses are classified in;;0.46;Economics 101;Indicators;University of Agronomic Sciences and Veterinary Medicine Bucharest
+164;Indicate which of the following positions are part of the assets of the balance sheet;;0.52;Accounting;Assets;"""1 Decembrie 1918"" University of Alba-Iulia"
+165;Indicate which of the positions listed below are part of the category of intangible assets;;0.79;Accounting;Assets;"""1 Decembrie 1918"" University of Alba-Iulia"
+166;What is the correct formula for changing the balance sheet for the transaction : an agricultural company purchased chemical fertilizers in the amount of 1500 lei which were paid at the due date of the invoice.;;0.18;Accounting;Accounts;University of Agronomic Sciences and Veterinary Medicine Bucharest
+167;The equality of Assets = Equity + Liabilities is specific;;0.56;Accounting;Accounts;University of Agronomic Sciences and Veterinary Medicine Bucharest
+168;The equality Total assets – Liabilities = Equity is specific;;0.77;Accounting;Accounts;University of Agronomic Sciences and Veterinary Medicine Bucharest
+169;Collection of a receivable is a balance sheet entry of the type;;0.73;Accounting;Accounts;University of Agronomic Sciences and Veterinary Medicine Bucharest
+170;Payment of a trade debt is a balance sheet entry of the type;;0.3;Accounting;Accounts;University of Agronomic Sciences and Veterinary Medicine Bucharest
+171;In the category of financial assets are found;;0.48;Accounting;Assets;"""1 Decembrie 1918"" University of Alba-Iulia"
+172;They are not found in the category of a company 's own capital;;0.2;Accounting;Assets;"""1 Decembrie 1918"" University of Alba-Iulia"
+173;Money can be found in the component of current assets;;0.4;Accounting;Assets;"""1 Decembrie 1918"" University of Alba-Iulia"
+174;The duration of the economic use of the land is;;0.92;Accounting;Assets;"""1 Decembrie 1918"" University of Alba-Iulia"
+175;The position of customers in litigation represents;;0.09;Accounting;Assets;University of Agronomic Sciences and Veterinary Medicine Bucharest
+176;Trade payables refer to;;0.75;Accounting;Assets;University of Agronomic Sciences and Veterinary Medicine Bucharest
+177;Current assets refer to;;0.32;Accounting;Assets;University of Agronomic Sciences and Veterinary Medicine Bucharest
+178;In the category of finished products are found;;0.98;Accounting;Assets;University of Agronomic Sciences and Veterinary Medicine Bucharest
+179;Current assets are grouped into;;0.61;Accounting;Assets;University of Agronomic Sciences and Veterinary Medicine Bucharest
+180;Indicate the correct accounting formula for the operation : the monthly recording of the depreciation of a warehouse.;;0.7;Accounting;Formulas;University of Agronomic Sciences and Veterinary Medicine Bucharest
+181;According to HG no. 276/2013 regarding the establishment of the minimum entry value of tangible assets considered as fixed assets, this value is;;0.9;Accounting;Formulas;University of Agronomic Sciences and Veterinary Medicine Bucharest
+182;Indicate the correct formula for the operation : a company developed a plot of land under its own management in the amount of 500,000 lei;;0.41;Accounting;Formulas;University of Agronomic Sciences and Veterinary Medicine Bucharest
+183;Indicate where the spending accounts send their balance at the end financial exercise;;0.83;Accounting;Formulas;University of Agronomic Sciences and Veterinary Medicine Bucharest
+184;The duration of economic use of intangible assets is maximum;;0.38;Accounting;Assets;University of Agronomic Sciences and Veterinary Medicine Bucharest
+185;Bakery company has at the beginning of July a stock of flour of 1000 kg with a value of 2 lei/kg. During the month, the company purchases another 500 kg of flour (05.07.N) at the price of 2.1 lei/kg, and on 20.07.N another 700 kg of flour at 2.2 lei/kg. On the 28th N, the quantity of 300 kg of flour is used in the production process . At what cost will the stock of flour used be evaluated considering that for the evaluation of the stocks at the exit from the heritage, the company uses the FIFO method (first in-first out )?;;0.91;Accounting;Formulas;University of Agronomic Sciences and Veterinary Medicine Bucharest
+186; Choose the correct accounting formula by which the sale of tangible assets to third parties is recorded;;0.96;Accounting;Formulas;University of Agronomic Sciences and Veterinary Medicine Bucharest
+187;In a company with a public catering profile , during the month of December the following takes place movements in the rice stock: on December 1st the initial stock was 100 kg of rice valued at 5 lei/kg, on December 8th 40 kg of rice was removed from the stock, on December 10th 100 kg of rice was added to the stock at 5.1 lei/kg , on December 15, 100 kg entered the stock at 5.2 lei/kg, on December 20, 60 kg were removed from the stock, and on December 24, another 30 kg of rice went out of stock. At what cost will the exits from the stock be evaluated considering that for the evaluation of the stocks at the exit from the patrimony, the company uses the CMP method (weighted average cost) calculated at the end of the month?;;0.14;Accounting;Formulas;University of Agronomic Sciences and Veterinary Medicine Bucharest
+188;The registration of the finished products obtained as a result of the production process is registered as follows;;0.53;Accounting;Formulas;University of Agronomic Sciences and Veterinary Medicine Bucharest
+189;In livestock farms, the weight gain recorded in animals is recorded in accounting according to the formula;;0.25;Accounting;Formulas;University of Agronomic Sciences and Veterinary Medicine Bucharest
+190;A company purchased a machine with a value of 200,000 lei and an economic useful life of 11 years. The company opts for the accelerated depreciation method. What will be the value of the annual depreciation in the second year of operation , considering that in the first year 50% of the input value is amortized ?;;0.15;Accounting;Formulas;University of Agronomic Sciences and Veterinary Medicine Bucharest
+191;The following balance sheet items exist within a company ;;0.46;Accounting;Formulas;University of Agronomic Sciences and Veterinary Medicine Bucharest
+192;Specify which element does not represent a physical immobilization;;0.82;Accounting;Assets;University of Agronomic Sciences and Veterinary Medicine Bucharest
+193;They are not included in the category of current assets;;0.95;Accounting;Assets;University of Agronomic Sciences and Veterinary Medicine Bucharest
+194;They are included in the balance sheet liabilities;;0.4;Accounting;Assets;University of Agronomic Sciences and Veterinary Medicine Bucharest
+195;What are the characteristics of fixed assets?;;0.25;Accounting;Assets;University of Pitesti
+196;Account 345 Finished products keeps track of the existence and movement of stocks of products obtained within the entities . REFERENCES the situations in which this account is debited;;0.79;Accounting;Accounts;University of Agronomic Sciences and Veterinary Medicine Bucharest
+197;Which of the following values can be assimilated to tangible assets when they enter the patrimonial assets of the companies ?;;0.74;Accounting;Assets;University of Pitesti
+198;Recorded in the debit of tangible assets accounts  targeted transactions _  their entries into the patrimony of the companies . Identify them!;;0.03;Accounting;Formulas;University of Agronomic Sciences and Veterinary Medicine Bucharest
+199;Indicate which of the following statements define current assets;;0.59;Accounting;Assets;University of Pitesti
+200;What are the situations in which the accounts of stocks of raw materials and materials register  exits , respectively are they credited ?;;0.05;Accounting;Assets;University of Pitesti
+201;In the balance sheet , the patrimony of the entities is presented on the date on which this financial situation was realized. This heritage includes;;0.34;Accounting;Assets;University of Pitesti
+202;Choose the elements that change and the meaning of the change for the transaction;;0.05;Accounting;Formulas;University of Agronomic Sciences and Veterinary Medicine Bucharest
+203;Specify which of the following transactions result in an increase in expenses;;0.78;Accounting;Formulas;University of Agronomic Sciences and Veterinary Medicine Bucharest
+204;CIF prices include;;0.26;Economics 101;Indicators;University of Agronomic Sciences and Veterinary Medicine Bucharest
+205;In the case of free- destination prices;;0.06;Economics 101;Indicators;University of Agronomic Sciences and Veterinary Medicine Bucharest
+206;Price category that appeared in history?;;0.69;Economics 101;Indicators;University of Agronomic Sciences and Veterinary Medicine Bucharest
+207;What will be the prices of suppliers who do not have the power to negotiate with customers ?;;0.28;Economics 101;Indicators;University of Agronomic Sciences and Veterinary Medicine Bucharest
+208;Which of the statements are the following correct?;;0.43;Economics 101;Indicators;University of Agronomic Sciences and Veterinary Medicine Bucharest
+209;How will the prices of the products of a sector of activity not protected by important entry barriers be?;;0.79;Economics 101;Indicators;"""1 Decembrie 1918"" University of Alba-Iulia"
+210;The bargaining power of customers is high when;;0.49;Economics 101;Negotiation;University of Agronomic Sciences and Veterinary Medicine Bucharest
+211;A supplier group is strong when;;0.18;Economics 101;Negotiation;University of Agronomic Sciences and Veterinary Medicine Bucharest
+212;Transfer costs include:;;0.96;Economics 101;Indicators;"""1 Decembrie 1918"" University of Alba-Iulia"
+213;Differentiated products means that;;0.57;Economics 101;Indicators;"""1 Decembrie 1918"" University of Alba-Iulia"
+214;Real price is calculated by reporting the nominal price from a given moment to;;0.23;Economics 101;Indicators;"""1 Decembrie 1918"" University of Alba-Iulia"
+215;Price flat represent;;0.56;Economics 101;Indicators;"""1 Decembrie 1918"" University of Alba-Iulia"
+216;The marginal cost curve has the following short term development;;0.1;Economics 101;Indicators;"""1 Decembrie 1918"" University of Alba-Iulia"
+217;Which of the following statements are correct?;;0.21;Economics 101;Indicators;"""1 Decembrie 1918"" University of Alba-Iulia"
+218;How will the prices of the products of a sector of activity relatively concentrated in the relationship with customers be ?;;0.74;Economics 101;Indicators;"""1 Decembrie 1918"" University of Alba-Iulia"
+219;The entry of a new entrant into an activity sector that produces differentiated products involves risks;;0.73;Economics 101;Indicators;"""1 Decembrie 1918"" University of Alba-Iulia"
+220;How will the prices of the products of a sector of activity whose products are competed by substitute products with comparatively low prices be ?;;0.66;Economics 101;Indicators;"""1 Decembrie 1918"" University of Alba-Iulia"
+221;The total cost for obtaining a product unit is 370 lei. By producing an additional unit of the same product, the total cost for the two units produced will increase by 150 lei. Given that the total fixed cost is 200 lei, and the Marginal Cost for the production of one product unit was 170 lei,;;0.44;Economics 101;Indicators;"""1 Decembrie 1918"" University of Alba-Iulia"
+222;The total cost for obtaining 5 units of the product is 810 lei. By producing an additional unit of the same product, the total cost for the two units produced will increase by 70 lei. Given that the total fixed cost is 200 lei, and the Marginal Cost for the production of 5 units of product was 70 lei,;;0.82;Economics 101;Indicators;"""1 Decembrie 1918"" University of Alba-Iulia"
+223;The total cost for obtaining a product unit is 370 lei. By producing an additional unit of the same product, the total cost for the two units produced will increase by 150 lei. Given that the total fixed cost is 200 lei, for two units produced;;0.91;Economics 101;Indicators;"""1 Decembrie 1918"" University of Alba-Iulia"
+224;The average cost is a cost category that can be said to be;;0.06;Economics 101;Indicators;"""1 Decembrie 1918"" University of Alba-Iulia"
+225;Marginal cost is a cost category that can be said to be;;0.33;Economics 101;Indicators;"""1 Decembrie 1918"" University of Alba-Iulia"
+226;The average fixed cost is a cost category that can be said to be;;0.62;Economics 101;Indicators;"""1 Decembrie 1918"" University of Alba-Iulia"
+227;The full cost is determined by summing the following cost categories;;0.31;Economics 101;Indicators;"""1 Decembrie 1918"" University of Alba-Iulia"
+228;The total cost for obtaining 8 units of the product is 890 lei. By producing an additional unit of the same product, the total cost for the nine units produced will increase to 1060 lei. Given that the total fixed cost is 200 lei, for nine units produced;;0.01;Economics 101;Indicators;"""1 Decembrie 1918"" University of Alba-Iulia"
+229;Between the equilibrium price and the price  the market may have the following correlations;;0.59;Economics 101;Indicators;"""1 Decembrie 1918"" University of Alba-Iulia"
+230;A firm may choose to set a price below cost when;;0.82;Economics 101;Indicators;"""1 Decembrie 1918"" University of Alba-Iulia"
+231;An enterprise in a monopoly situation can  propose as a price setting strategy;;0.25;Economics 101;Indicators;"""1 Decembrie 1918"" University of Alba-Iulia"
+232;Returns to scale can be;;0.8;Economics 101;Indicators;"""1 Decembrie 1918"" University of Alba-Iulia"
+233;What is the definition rural space;;0.32;Economic Policies;Agricultural Policies;University of Agronomic Sciences and Veterinary Medicine Bucharest
+234;The functions rural space according to the European Charter of Rural Space , are;;0.82;Economic Policies;Agricultural Policies;University of Agronomic Sciences and Veterinary Medicine Bucharest
+235;"The new Rural Development policy of the European Union, which has become the ""Second Pillar of the PAC"", is based on the following principles";;0.73;Economic Policies;Agricultural Policies;University of Agronomic Sciences and Veterinary Medicine Bucharest
+236;The major objectives of the Rural Development Policies of the European Union are;;0.85;Economic Policies;Agricultural Policies;University of Agronomic Sciences and Veterinary Medicine Bucharest
+237;PNDR 2007-2013 Axis I Measure 112 - Installation of young farmers - the support provided will be oriented towards the modernization of agricultural holdings through the following types of actions;;0.96;Economic Policies;Agricultural Policies;University of Agronomic Sciences and Veterinary Medicine Bucharest
+238;PNDR 2007-2013 Axis I Measure 121 - Modernization of agricultural holdings . What are the investments that can be made through this measure;;0.39;Economic Policies;Agricultural Policies;University of Agronomic Sciences and Veterinary Medicine Bucharest
+239;PNDR 2007-2013 Axis 2 – Improving the environment in rural areas . The general objective of this axis is;;0.39;Economic Policies;Agricultural Policies;University of Agronomic Sciences and Veterinary Medicine Bucharest
+240;In the demographic evolution of the European Union, please specify the trends manifested in the last decade;;0.68;Economic Policies;Agricultural Policies;University of Agronomic Sciences and Veterinary Medicine Bucharest
+241;The agri-food system in economically developed countries has the following characteristics;;0.09;Economic Policies;Agricultural Policies;University of Agronomic Sciences and Veterinary Medicine Bucharest
+242;PNDR 2007-2013 Axis I Measure 111 - Professional training, information and dissemination of knowledge . What are the types of actions supported;;0.53;Economic Policies;Agricultural Policies;University of Agronomic Sciences and Veterinary Medicine Bucharest
+243;The structure of the rural area , seen through the economic and social prism, is differentiated into;;0.43;Economic Policies;Agricultural Policies;University of Agronomic Sciences and Veterinary Medicine Bucharest
+244;The Western European agro-food system is based on several fundamental characteristics;;0.64;Economic Policies;Agricultural Policies;University of Agronomic Sciences and Veterinary Medicine Bucharest
+245;The rural development measures as presented in the legal document (EC) 1227/1999 of May 17, 1999 are;;0.39;Economic Policies;Agricultural Policies;University of Agronomic Sciences and Veterinary Medicine Bucharest
+246;The key areas of Pillar II (Rural Development Policy) established by the European Union are;;0.11;Economic Policies;Agricultural Policies;University of Agronomic Sciences and Veterinary Medicine Bucharest
+247;What are the documents specified in Council Regulation 1698/2005 establishing new rules for programming and monitoring the implementation of programs to regulate the rural development policy put into practice by the member states;;0.32;Economic Policies;Agricultural Policies;University of Agronomic Sciences and Veterinary Medicine Bucharest
+248;Following the Conference in Salzburg (November 2003) and the Strategic Guidelines of the European Council in Lisbon and Gothenburg, the following three major objectives of the rural development policy were established;;0.54;Economic Policies;Agricultural Policies;University of Agronomic Sciences and Veterinary Medicine Bucharest
+249;The strategic guidelines of the Rural Development Program of the European Union are;;0.52;Economic Policies;Agricultural Policies;University of Agronomic Sciences and Veterinary Medicine Bucharest
+250;Within the Rural Development Program of the European Union, the support regarding the competitiveness of the agricultural and forestry sector within Axis I will be embodied in the following measures that aim improvements human potential;;0.32;Economic Policies;Agricultural Policies;University of Agronomic Sciences and Veterinary Medicine Bucharest
+251;Within the Rural Development Program of the European Union, the support for land management under Axis II will take the form of the following measures aimed at encouraging the use of agricultural land;;0.82;Economic Policies;Agricultural Policies;University of Agronomic Sciences and Veterinary Medicine Bucharest
+252;Within the Rural Development Program of the European Union, the support regarding the diversification of the rural economy and the quality of life in rural areas within Axis III will be embodied in the following measures that pursue the diversification of the rural economy;;0.67;Economic Policies;Agricultural Policies;University of Agronomic Sciences and Veterinary Medicine Bucharest
+253;Regarding the characteristics of the rural area , from an economic point of view, it is characterized by;;0;Economic Policies;Agricultural Policies;University of Agronomic Sciences and Veterinary Medicine Bucharest
+254;From an occupational point of view , the rural area is characterized by;;0.49;Economics 101;Rural Areas;University of Agronomic Sciences and Veterinary Medicine Bucharest
+255;Rural area is characterized by;;0.82;Economics 101;Rural Areas;University of Agronomic Sciences and Veterinary Medicine Bucharest
+256;Vertical development and integration is generated by at least the following factors;;0.16;Economics 101;Rural Areas;University of Agronomic Sciences and Veterinary Medicine Bucharest
+257;The economic and social functions of agriculture are the following;;0.65;Economics 101;Rural Areas;University of Agronomic Sciences and Veterinary Medicine Bucharest
+258;Sustainable agriculture represents;;0.82;Economics 101;Rural Areas;University of Agronomic Sciences and Veterinary Medicine Bucharest
+259;What are the main job analysis requirements ?;;0.18;Management;Human Resources;"""1 Decembrie 1918"" University of Alba-Iulia"
+260;What are the main objectives of job analysis?;;0.4;Management;Human Resources;"""1 Decembrie 1918"" University of Alba-Iulia"
+261;What are the methods and techniques of job analysis?;;0.3;Management;Human Resources;"""1 Decembrie 1918"" University of Alba-Iulia"
+262;What are the most important aspects to consider when choosing job analysis methods?;;0.03;Management;Human Resources;"""1 Decembrie 1918"" University of Alba-Iulia"
+263;What are the operational factors in job definition?;;0.83;Management;Human Resources;"""1 Decembrie 1918"" University of Alba-Iulia"
+264;What are the principles of scientific management applied in job design?;;0.62;Management;Human Resources;"""1 Decembrie 1918"" University of Alba-Iulia"
+265;Recruitment policies and managerial practices in this field are affected by a series of constraints or numerous external and internal factors. Which are these?;;0;Management;Human Resources;"""1 Decembrie 1918"" University of Alba-Iulia"
+266;What are the advantages of internal recruitment ?;;0.35;Management;Human Resources;"""1 Decembrie 1918"" University of Alba-Iulia"
+267;What are the disadvantages of internal recruitment ?;;0;Management;Human Resources;"""1 Decembrie 1918"" University of Alba-Iulia"
+268;What are the advantages of external recruitment ?;;0.33;Management;Human Resources;"""1 Decembrie 1918"" University of Alba-Iulia"
+269;What are the disadvantages of external recruitment ?;;0.13;Management;Human Resources;"""1 Decembrie 1918"" University of Alba-Iulia"
+270;The reasons why some managers do not express their appreciation when this is required are;;0.8;Management;Human Resources;"""1 Decembrie 1918"" University of Alba-Iulia"
+271; The given definition of professional performance evaluation completes the evaluation concept with some additional elements, which are;;0.19;Management;Human Resources;"""1 Decembrie 1918"" University of Alba-Iulia"
+272;The evaluation of human resources or their performance involves several distinct activities . These are;;0.94;Management;Human Resources;"""1 Decembrie 1918"" University of Alba-Iulia"
+273;What are the potential problems and sources of errors in the professional performance evaluation process?;;0.52;Management;Human Resources;"""1 Decembrie 1918"" University of Alba-Iulia"
+274;The causes that lead to the overestimation of performances are;;0.96;Management;Human Resources;"""1 Decembrie 1918"" University of Alba-Iulia"
+275;What are the ways or methods of action that can lead to the prevention or dimming of potential problems and sources of errors identified in the performance evaluation process?;;0.51;Management;Human Resources;"""1 Decembrie 1918"" University of Alba-Iulia"
+276;Reward strategies must meet a number of requirements . These must;;0.67;Management;Human Resources;"""1 Decembrie 1918"" University of Alba-Iulia"
+277;The reward system comprises several components. These are;;0.81;Management;Human Resources;"""1 Decembrie 1918"" University of Alba-Iulia"
+278;The development of any payroll system must take into account some general principles. These are;;0.01;Management;Human Resources;University of Agronomic Sciences and Veterinary Medicine Bucharest
+279;Human resources have, within the organization , some particularities such as;;0.5;Management;Human Resources;University of Agronomic Sciences and Veterinary Medicine Bucharest
+280;What are the main advantages of job enrichment ?;;0.25;Management;Human Resources;University of Agronomic Sciences and Veterinary Medicine Bucharest
+281;The choice and dynamics of the professional career are influenced by factors such as;;0.87;Management;Human Resources;University of Agronomic Sciences and Veterinary Medicine Bucharest
+282;evaluation objectives have in mind;;0.25;Management;Human Resources;University of Agronomic Sciences and Veterinary Medicine Bucharest
+283;Aspects that make it difficult to introduce performance-related pay systems refer to;;0.84;Management;Human Resources;University of Agronomic Sciences and Veterinary Medicine Bucharest
+284;The reasons why organizations choose and use a job evaluation method have in mind;;0.1;Management;Human Resources;University of Agronomic Sciences and Veterinary Medicine Bucharest
+285;What are the main characteristics of personnel administration ?;;0.23;Management;Human Resources;University of Agronomic Sciences and Veterinary Medicine Bucharest
+286;According to specialized literature, the concept of career has several meanings that refer to;;0.76;Management;Human Resources;University of Agronomic Sciences and Veterinary Medicine Bucharest
+287;The aspects that must be taken into account when formulating strategies in the field of human resources refer to;;0.15;Management;Human Resources;University of Agronomic Sciences and Veterinary Medicine Bucharest
+288;The personnel strategy must be oriented towards;;0.62;Management;Human Resources;University of Agronomic Sciences and Veterinary Medicine Bucharest
+289;In order for human resources policies to achieve their proposed objectives, they must;;0.55;Management;Human Resources;University of Agronomic Sciences and Veterinary Medicine Bucharest
+290;What are the main requirements of the job description?;;0.38;Management;Human Resources;University of Agronomic Sciences and Veterinary Medicine Bucharest
+291;In the development of the job specification there may be some risks related to;;0.28;Management;Human Resources;University of Agronomic Sciences and Veterinary Medicine Bucharest
+292;Human resources planning offers a number of advantages that refer to;;0.43;Management;Human Resources;University of Agronomic Sciences and Veterinary Medicine Bucharest
+293;The characteristics of human resource management derive from aspects that refer to;;0.08;Management;Human Resources;University of Agronomic Sciences and Veterinary Medicine Bucharest
+294;The land regime consists of;;0.83;Economics 101;Land Reclamation;University of Agronomic Sciences and Veterinary Medicine Bucharest
+295;The land fund is made up of the following groups of land;;0.2;Economics 101;Land Reclamation;University of Agronomic Sciences and Veterinary Medicine Bucharest
+296;The earth is characterized by a series of specific properties;;0.67;Economics 101;Land Reclamation;University of Agronomic Sciences and Veterinary Medicine Bucharest
+297;The earth is characterized by the following types of fertility;;0.96;Economics 101;Land Reclamation;University of Agronomic Sciences and Veterinary Medicine Bucharest
+298;Land improvements consist of two large categories of works;;0.87;Economics 101;Land Reclamation;University of Agronomic Sciences and Veterinary Medicine Bucharest
+299;Determining the value of the land is necessary for;;0.79;Economics 101;Land Reclamation;University of Agronomic Sciences and Veterinary Medicine Bucharest
+300;Although the price of the earth is still the subject of disagreements between economists in relation to their belonging to one school of thought or another, which of the following  price explanations _ earth belong to the neo-classics;;0.66;Economics 101;Land Reclamation;University of Agronomic Sciences and Veterinary Medicine Bucharest
+301;production system can be considered as;;0.56;Economics 101;Land Reclamation;University of Agronomic Sciences and Veterinary Medicine Bucharest
+302;The basic features of agriculture as a branch of material production are;;0.54;Economics 101;Land Reclamation;University of Agronomic Sciences and Veterinary Medicine Bucharest
+303;The relationship between industry and agriculture in the contemporary period can be appreciated by;;0.53;Economics 101;Land Reclamation;University of Agronomic Sciences and Veterinary Medicine Bucharest
+304;The characteristics of the Western European agri-food system are based on several fundamental ideas;;0.91;Economics 101;Land Reclamation;University of Agronomic Sciences and Veterinary Medicine Bucharest
+305;In the agricultural production process, indissoluble links were created between land ownership, land exploitation and agricultural exploitation itself, giving rise to complex rural structures, determining the following forms of exploitation;;0.73;Economics 101;Land Reclamation;University of Agronomic Sciences and Veterinary Medicine Bucharest
+306;The economic-social organization of agricultural production in the post-December period was determined by the adoption of the following laws;;0.6;Economics 101;Land Reclamation;University of Agronomic Sciences and Veterinary Medicine Bucharest
+307;""" The operation of raising on the ground, fixing on plans and in special registers the entire land property of a country"", this definition belongs";;0.52;Economics 101;Land Reclamation;University of Agronomic Sciences and Veterinary Medicine Bucharest
+308;The land value estimation methods can be classified according to several criteria, depending on the purpose pursued and the elements available at the time of evaluation . Specify which methods are distinguished, according to the procedure used?;;0.56;Economics 101;Land Reclamation;University of Agronomic Sciences and Veterinary Medicine Bucharest
+309;"Differential rent is a more general economic category, which  it is due to the existence of the law of decreasing soil fertility , it is an extra profit  conditioned by the fact that one of the factors of production has an advantage of being in someone's possession"", this definition is given by";;0.82;Economics 101;Land Reclamation;University of Agronomic Sciences and Veterinary Medicine Bucharest
+310;identified the particularities of agriculture;;0.92;Economics 101;Land Reclamation;University of Agronomic Sciences and Veterinary Medicine Bucharest
+311;The influence of industry on agriculture consists of the following;;0.28;Economics 101;Land Reclamation;University of Agronomic Sciences and Veterinary Medicine Bucharest
+312;The main characteristic of community legislation is;;0.73;Economics 101;Land Reclamation;University of Agronomic Sciences and Veterinary Medicine Bucharest
+313;What is the basic characteristic of the market economy from the property point of view ?;;0.63;Economics 101;Land Reclamation;University of Agronomic Sciences and Veterinary Medicine Bucharest
+314;Identify the disadvantages of the way of valuing the land;;0.27;Economics 101;Land Reclamation;University of Agronomic Sciences and Veterinary Medicine Bucharest
+315;Depending on the destination , the land fund is made up of the following groups of land;;0.7;Economics 101;Land Reclamation;University of Agronomic Sciences and Veterinary Medicine Bucharest
+316;What are the components of the general land cadastre?;;0.36;Economics 101;Land Reclamation;University of Agronomic Sciences and Veterinary Medicine Bucharest
+317;The value of the land is expressed by;;0.81;Economics 101;Land Reclamation;University of Agronomic Sciences and Veterinary Medicine Bucharest
+318;"That part of the product of the soil that we pay to have the right to exploit the productive, original and imperishable faculties of the soil"" is the definition of land rent that we find in";;0.38;Economics 101;Land Reclamation;University of Agronomic Sciences and Veterinary Medicine Bucharest
+319;"""The land cadastre is the operation by which it is determined the surface and the quality of the soil, with the net income that produces it: the determination of the surface is called the technical cadastre, and the determination of the natural and economic quality of the soil is done by the economic section of the cadastre"". Track the we find a definition in";;0.15;Economics 101;Land Reclamation;University of Agronomic Sciences and Veterinary Medicine Bucharest
+320;In specialized literature we find several categories of soil fertility . Which of them appears as a result of human action , finally expressing itself through the level of production per surface unit ?;;0.5;Economics 101;Land Reclamation;University of Agronomic Sciences and Veterinary Medicine Bucharest
+321;The Western European agri-food system is based on the following fundamental ideas;;0.28;Economics 101;Land Reclamation;University of Agronomic Sciences and Veterinary Medicine Bucharest
+322;The advantages of private property compared to public property are;;0.67;Economics 101;Land Reclamation;University of Agronomic Sciences and Veterinary Medicine Bucharest
+323;The potential chemical hazards that influence food safety are;;0.57;Management;Quality Management;University of Agronomic Sciences and Veterinary Medicine Bucharest
+324;potential danger for food safety is defined as follows;;0.36;Management;Quality Management;University of Agronomic Sciences and Veterinary Medicine Bucharest
+325;The identification of critical control points is done with the help of;;0.93;Management;Quality Management;University of Agronomic Sciences and Veterinary Medicine Bucharest
+326;Monitoring has a role;;0.97;Management;Quality Management;University of Agronomic Sciences and Veterinary Medicine Bucharest
+327;safety management system is done according to the standard;;0.02;Management;Quality Management;University of Agronomic Sciences and Veterinary Medicine Bucharest
+328;quality management system has the role of a;;0.6;Management;Quality Management;University of Agronomic Sciences and Veterinary Medicine Bucharest
+329;The HACCP system;;0.57;Management;Quality Management;University of Agronomic Sciences and Veterinary Medicine Bucharest
+330;The standard that refers to the definition quality is;;0.75;Management;Quality Management;University of Agronomic Sciences and Veterinary Medicine Bucharest
+331;The ISO 17025/2005 standard refers to;;0.93;Management;Quality Management;University of Agronomic Sciences and Veterinary Medicine Bucharest
+332;The term food safety refers to;;0.81;Management;Quality Management;University of Agronomic Sciences and Veterinary Medicine Bucharest
+333;By Critical Control Point is meant;;0.55;Management;Quality Management;University of Agronomic Sciences and Veterinary Medicine Bucharest
+334;The risk assessment is carried out with the help of;;0.03;Management;Quality Management;University of Agronomic Sciences and Veterinary Medicine Bucharest
+335;The monitoring system of the parameters of a PCC must include;;0.66;Management;Quality Management;University of Agronomic Sciences and Veterinary Medicine Bucharest
+336;The corrections applied to non-compliant products must ensure that;;0.01;Management;Quality Management;University of Agronomic Sciences and Veterinary Medicine Bucharest
+337;From the point of view of the relationship between the auditor and the auditee, audits are classified as follows;;0.73;Management;Quality Management;University of Agronomic Sciences and Veterinary Medicine Bucharest
+338;The term traceability implies;;0.83;Management;Quality Management;University of Agronomic Sciences and Veterinary Medicine Bucharest
+339;Continuous improvement represents ;;0.3;Management;Quality Management;University of Agronomic Sciences and Veterinary Medicine Bucharest
+340;The ISO 9001/2008 standard refers to;;0.83;Management;Quality Management;University of Agronomic Sciences and Veterinary Medicine Bucharest
+341;Who is responsible for formulating corrective actions following a certification audit;;0.81;Management;Quality Management;University of Agronomic Sciences and Veterinary Medicine Bucharest
+342;Which of the following standards refers to: Terms, definitions and vocabulary in the field of quality management;;0.57;Management;Quality Management;University of Agronomic Sciences and Veterinary Medicine Bucharest
+343;Which of the following utterances represent principles of quality management;;0.83;Management;Quality Management;University of Agronomic Sciences and Veterinary Medicine Bucharest
+344;The standard that specifies how to conduct an audit is;;0.49;Management;Quality Management;University of Agronomic Sciences and Veterinary Medicine Bucharest
+345;The factors that contribute to the achievement of quality are represented by;;0.62;Management;Quality Management;University of Agronomic Sciences and Veterinary Medicine Bucharest
+346;The potential physical hazards related to a food product are;;0.15;Management;Quality Management;University of Agronomic Sciences and Veterinary Medicine Bucharest
+347;They belong to the category of major allergens;;0.18;Management;Quality Management;University of Agronomic Sciences and Veterinary Medicine Bucharest
+348;The ingredients on the label of a food product must be mentioned;;0.19;Management;Quality Management;University of Agronomic Sciences and Veterinary Medicine Bucharest
+349;The methods used to obtain audit evidence are the following;;0.82;Management;Quality Management;University of Agronomic Sciences and Veterinary Medicine Bucharest
+350;The stages of an audit carried out IN A I am a company;;0.15;Management;Quality Management;University of Agronomic Sciences and Veterinary Medicine Bucharest
+351;The legislative acts established at the level of the European Union that directly and indirectly regulate the Common Agricultural Policy are;;0.09;Economic Policies;European Policies;University of Agronomic Sciences and Veterinary Medicine Bucharest
+352;The guiding principles of the common agricultural policy were established by the Treaty of Rome in article 38 - In 1958, at the Stressa conference , the principles of the application and functioning of the CAP were established . Which are these;;0.18;Economic Policies;European Policies;University of Agronomic Sciences and Veterinary Medicine Bucharest
+353;The classic levers of the working mechanism of the PAC are;;0.16;Economic Policies;European Policies;University of Agronomic Sciences and Veterinary Medicine Bucharest
+354;The key elements of the new CAP reform started in 2003 that will fundamentally change the support system for farms and rural areas in the period 2007-2013 are;;0.78;Economic Policies;European Policies;University of Agronomic Sciences and Veterinary Medicine Bucharest
+355;The General Agreement on Tariffs and Trade (GATT) has as its main objective;;0.58;Economic Policies;European Policies;University of Agronomic Sciences and Veterinary Medicine Bucharest
+356; The World Trade Organization (WTO) is based on a series of principles that constitute the foundation of the world trade system. These principles are;;0.41;Economic Policies;European Policies;University of Agronomic Sciences and Veterinary Medicine Bucharest
+357; The major changes that occurred due to the radical reform measures of the CAP included in Agenda 2000 and in the subsequent packages determined the emergence  the following types of Common Market Organization;;0.43;Economic Policies;European Policies;University of Agronomic Sciences and Veterinary Medicine Bucharest
+358;In Regulation (EC) 1234/2007, part two - Internal market , the issues related to;;0.2;Economic Policies;European Policies;University of Agronomic Sciences and Veterinary Medicine Bucharest
+359;Romania, as a member state of the European Union, has the obligation to apply schemes and mechanisms of intervention on the market starting from 2007, as follows;;0.43;Economic Policies;European Policies;University of Agronomic Sciences and Veterinary Medicine Bucharest
+360;socio-economic implications of the agricultural support policies were;;0.9;Economic Policies;European Policies;University of Agronomic Sciences and Veterinary Medicine Bucharest
+361;The main features of the new reform (CAP Reform Newsletter, July 2004) are;;0.62;Economic Policies;European Policies;University of Agronomic Sciences and Veterinary Medicine Bucharest
+362;The key elements of the new CAP reform aim;;0.13;Economic Policies;European Policies;University of Agronomic Sciences and Veterinary Medicine Bucharest
+363;"Cross- compliance is a cross approach to the support system granted to farmers who undertake to fulfill a "" priority list "" that includes different European standards in the following areas";;0.7;Economic Policies;European Policies;University of Agronomic Sciences and Veterinary Medicine Bucharest
+364;The new CAP reform (Pillar II) ensures the application of an integrated strategy for rural development, based on four key principles;;0.89;Economic Policies;European Policies;University of Agronomic Sciences and Veterinary Medicine Bucharest
+365;The new European model of agriculture is focused on multifunctional agriculture and responds better to the requirements market and rural development . It covers a number of aspects, of which we consider the most important;;0.82;Economic Policies;European Policies;University of Agronomic Sciences and Veterinary Medicine Bucharest
+366;A careful analysis of the content of all the regulations of the Common Organizations of Agricultural Markets reveals the fact that they contain , in their essence , provisions regarding;;0.92;Economic Policies;European Policies;University of Agronomic Sciences and Veterinary Medicine Bucharest
+367;The General Agreement on Tariffs and Trade (GATT) is dominated by three major principles;;0.3;Economic Policies;European Policies;University of Agronomic Sciences and Veterinary Medicine Bucharest
+368;The Marrakesh Agreement on the establishment of the WTO, in its preamble, provides the basic objectives, similar to those of the GATT, but which have been expanded to give the WTO the mandate to deal with trade in services. These are;;0.19;Economic Policies;European Policies;University of Agronomic Sciences and Veterinary Medicine Bucharest
+369;What are the benefits of the WTO trade system, in acceptance you ?;;0.22;Economic Policies;European Policies;University of Agronomic Sciences and Veterinary Medicine Bucharest
+370;challenges of the CAP 2014-2020 are;;0.55;Economic Policies;European Policies;University of Agronomic Sciences and Veterinary Medicine Bucharest
+371;Changes introduced by the CAP in the period 2014-2020;;0.65;Economic Policies;European Policies;University of Agronomic Sciences and Veterinary Medicine Bucharest
+372;In the new CAP 2014-2020, new measures regarding risk management are provided . These are;;0.79;Economic Policies;European Policies;University of Agronomic Sciences and Veterinary Medicine Bucharest
+373;The objectives of the Common Agricultural Policy were defined by the Treaty of Rome, as follows;;0.68;Economic Policies;European Policies;University of Agronomic Sciences and Veterinary Medicine Bucharest
+374;The functions of management are;;0.73;Management;Functions;University of Agronomic Sciences and Veterinary Medicine Bucharest
+375;The forecasting function materializes in;;0.37;Management;Functions;University of Agronomic Sciences and Veterinary Medicine Bucharest
+376;The stages of the decision-making process are;;0.61;Management;Functions;University of Agronomic Sciences and Veterinary Medicine Bucharest
+377;Depending on the scope and the time horizon, the strategies can be;;0.31;Management;Functions;University of Agronomic Sciences and Veterinary Medicine Bucharest
+378;What impact will the melting of polar ice and a reduction in permafrost have on the human use of high-latitude ecosystems, and how will these changes in human use affect biodiversity?;;0.43;Ecology;Biodiversity;University of Agronomic Sciences and Veterinary Medicine Bucharest
+379;Which elements of biodiversity in which locations are most vulnerable to climate change, including extreme events?;;0.56;Ecology;Biodiversity;University of Agronomic Sciences and Veterinary Medicine Bucharest
+380;How is the resilience of ecosystems to climate change affected by human activities and interventions?;;0.18;Ecology;Biodiversity;University of Agronomic Sciences and Veterinary Medicine Bucharest
+381;What factors determine the rates at which coastal ecosystems can respond to sea-level rise, and which of these are amenable to management?;;0.91;Ecology;Biodiversity;University of Agronomic Sciences and Veterinary Medicine Bucharest
+382;How will climate change, together with other environmental stressors, alter the distribution and prevalence of diseases of wild species?;;0.98;Ecology;Biodiversity;University of Agronomic Sciences and Veterinary Medicine Bucharest
+383;How will human responses to climate change (e.g., changes in agriculture, resource conflicts, and migration) affect biodiversity?;;0.98;Ecology;Biodiversity;University of Agronomic Sciences and Veterinary Medicine Bucharest
+384;How might biodiversity policies and management practices be modified and implemented to accommodate climate change?;;0.21;Ecology;Biodiversity;University of Agronomic Sciences and Veterinary Medicine Bucharest
+385;How might emerging carbon markets affect biodiversity through their impacts on the protection, management, and creation of habitats?;;0.37;Ecology;Biodiversity;University of Agronomic Sciences and Veterinary Medicine Bucharest
+386;What are the potential effects of feedbacks between climate change and ecosystem dynamics (e.g., drought, forest dieback, and coral bleaching) on the effectiveness of policy measures to sequester carbon and protect biodiversity?;;0.49;Ecology;Biodiversity;University of Agronomic Sciences and Veterinary Medicine Bucharest
+387;How much carbon is sequestered by different ecosystems, including their soils, and how can these ecosystems be managed to contribute most effectively to the mitigation of climate change?;;0.49;Ecology;Biodiversity;University of Agronomic Sciences and Veterinary Medicine Bucharest
+388;How, where, and to what extent can natural and seminatural ecosystems contribute to climate change adaptation and mitigation?;;0.24;Ecology;Biodiversity;University of Agronomic Sciences and Veterinary Medicine Bucharest
+389;How will climate change affect the distribution and impacts of climate-dependent disturbance regimes, such as fire?;;0.19;Ecology;Biodiversity;University of Agronomic Sciences and Veterinary Medicine Bucharest
+390;How will climate change affect global food production, and what are the resulting consequences for ecosystems and agrobiodiversity?;;0.57;Ecology;Biodiversity;University of Agronomic Sciences and Veterinary Medicine Bucharest
+391;How does biodiversity shape social resilience to the effects of climate change?;;0.54;Ecology;Biodiversity;University of Agronomic Sciences and Veterinary Medicine Bucharest
+392;What is the significance of topological approach?;;0.18;Topological Chemistry;Topological Approach;University of Pitesti
+393;Can new chemical concepts be found by a topological approach?;;0.94;Topological Chemistry;Topological Approach;University of Pitesti
+394;What is the status of a chemical concept within a topological approach?;;0.03;Topological Chemistry;Topological Approach;University of Pitesti
+395;Should topological approaches provide measurable quantities?;;0.3;Topological Chemistry;Topological Approach;University of Pitesti
+396;Is it possible to predict the outcome of a topological approach without performing a calculation on a computer?;;0.62;Topological Chemistry;Topological Approach;University of Pitesti
+397;What are new domains for which topological approaches would be useful?;;0.41;Topological Chemistry;Topological Approach;University of Pitesti
+398;The Little Prince is one of the most beloved children's books. Its French author is:;;0.71;Universal Literature;Authors;University of Pitesti
+399;"He is one of the most famous contemporary writers, and in 2006 he won the Nobel Prize for Literature. Among his novels are ""The Woman with Red Hair"", ""The Black Book"", ""My Name is Red"", ""The Museum of Innocence"" or ""The White Fortress"". Is about:";;0.34;Universal Literature;Authors;University of Pitesti
+400;"Lewis Carroll, the author of the famous fantasy novel ""Alice in Wonderland"" was from:";;0.71;Universal Literature;Authors;University of Pitesti
+401;The Great Gatsby, one of the most famous American novels, was written by:;;0.4;Universal Literature;Authors;University of Pitesti
+402;"The author of the novel ""Anna Karenina"" is:";;0.65;Universal Literature;Authors;University of Pitesti
+403;Who was the first Governor of the Plymouth Colonies?;;1;History;Thanksgiving;University of Pitesti
+404;Which one of these foods was not at the Pilgrims first Thanksgiving?;;0.08;History;Thanksgiving;University of Pitesti
+405;The first Thanksgiving was proclaimed in 1621, yet this feast was not repeated until 1623.  What was the reason to celebrate in 1623?;;0.31;History;Thanksgiving;University of Pitesti
+406;What was the average cost per pound of frozen whole turkey (2003 statistic)?;;0.5;History;Thanksgiving;University of Pitesti
+407;"The Jewish Faith also celebrates a harvest festival called Sukkoth, named for ""succots"" which were…?";;0.94;History;Thanksgiving;University of Pitesti
+408;The Pilgrims landed at Plymouth Rock on December 11th, 1620.  How many had died by the fall of 1621?;;0.34;History;Thanksgiving;University of Pitesti
+409;The pilgrims first celebrated a Thanksgiving Dinner in 1621.  How many Indians were in attendance.;;0.86;History;Thanksgiving;University of Pitesti
+410;This President called for the nation to observe a day of thanksgiving in 1789.  Who was he?;;0.53;History;Thanksgiving;University of Pitesti
+411;Franklin Delano Roosevelt attempted to change Thanksgiving Day, effectively changing it to the third, rather than forth Thursday in the Month of November.  What was he thinking?;;0.26;History;Thanksgiving;University of Pitesti
+412;What is the name of the English speaking American Indian who literally saved the pilgrims from starving in 1620 and 1621?;;0.53;History;Thanksgiving;University of Pitesti
+413;Who missed the first seating at the first Thanksgiving dinner?;;0.46;History;Thanksgiving;University of Pitesti
+414;What is another name for the Male Turkey?;;0.88;History;Thanksgiving;University of Pitesti
+415;How many Turkeys are raised in the United States each year (2004 estimate)?;;0.45;History;Thanksgiving;University of Pitesti
+416;What is the piece of skin hanging down from a turkey's neck called?;;0.7;History;Thanksgiving;University of Pitesti
+417;"Which meal was typically the ""Big Meal"" of the day for the colonists?";;0.68;History;Thanksgiving;University of Pitesti
+418;Egyptian farmers wept when they harvested their corn. What was the rational for this display of emotion?;;0.77;History;Thanksgiving;University of Pitesti
+419;The Pilgrims who organized the Mayflower journey were Puritan Separatist.  Of the 102 sailing how many were non-separatists?;;0.91;History;Thanksgiving;University of Pitesti
+420;After a 40-year campaign of writing letters to governors and presidents, this magazine editor convinced Abraham Lincoln to proclaim the last Thursday in November as our Nations Day  of Thanksgiving.;;0.47;History;Thanksgiving;University of Pitesti
+421;In Autumn, the Greeks had a Thanksgiving celebration (Harvest Festival) honoring the Goddess, Demeter.  What was the name of this festival?;;0.24;History;Thanksgiving;University of Pitesti
+422;The Puritans who sailed to Plymouth Rock were part of a larger group of Puritan believers who eventually accomplished this?;;0.43;History;Thanksgiving;University of Pitesti
+423;What was the name of the Indian Tribe that befriended the Pilgrims of Plymouth Plantation?;;0.41;History;Thanksgiving;University of Pitesti
+424;This state is tops in turkey production, with 49 million of these birds raised as of 2004?;;0.38;History;Thanksgiving;University of Pitesti
+425;Approximately what quantity of turkey is consumed by the average American each year?;;0.08;History;Thanksgiving;University of Pitesti
+426;This utensil never saw the table at the first Thanksgiving Dinner (They did not use these)?;;0.98;History;Thanksgiving;University of Pitesti
+427;This plant was unknown to the Europeans prior to meeting with the Indians of the new world?;;0.39;History;Thanksgiving;University of Pitesti
+428;What was different about the manner in which food was served in the seventeenth century?;;0.34;History;Thanksgiving;University of Pitesti
+429;Which President established Thanksgiving as an annual national holiday, to be celebrated on the last Thursday of November.;;0.05;History;Thanksgiving;University of Pitesti
+430;Who brought the majority of food for the first Thanksgiving Dinner?;;0.12;History;Thanksgiving;University of Pitesti
+431;This State produces more sweet potatoes than any other (588 of the total 1.6 billion pounds  US production)?;;0.65;History;Thanksgiving;University of Pitesti
+432;What is Hominy made from?;;0.59;History;Thanksgiving;University of Pitesti
+433;This year in October was the first time that all thirteen colonies joined in a young nations first Thanksgiving.  It was also the year the British were defeated at Saratoga?;;0.76;History;Thanksgiving;University of Pitesti
+434;How is it that the American Indian credited with saving the Plymouth Colonist, spoke English?;;0.6;History;Thanksgiving;University of Pitesti
+435;Of the 658 million pounds of cranberries produced in the US annually, this state leads the pack with 356 lbs. of production.;;0.73;History;Thanksgiving;"""1 Decembrie 1918"" University of Alba-Iulia"
+436;Let's talk TURKEY! There are several States in the U.S. with towns named Turkey.  Which of these can boast the most populous Turkey town (507 residence as of 2004)?;;0.15;History;Thanksgiving;"""1 Decembrie 1918"" University of Alba-Iulia"
+437;According to the Butterball Company, how many pounds of turkey are consumed on Thanksgiving?;;0.04;History;Thanksgiving;"""1 Decembrie 1918"" University of Alba-Iulia"
+438;We know that wild turkeys fly for only short distances.  How fast can they fly?;;0.69;History;Thanksgiving;"""1 Decembrie 1918"" University of Alba-Iulia"
+439;What other purpose (Besides wiping your hands and mouth) did large cloth napkins serve at the pilgrims table?;;0.15;History;Thanksgiving;"""1 Decembrie 1918"" University of Alba-Iulia"
+440;What was the original destination plan for the Pilgrims of the Plymouth Plantation?;;0.72;History;Thanksgiving;"""1 Decembrie 1918"" University of Alba-Iulia"
+441;This State produces more pumpkins than any other (326 of the 805 pounds of US production)?;;0.54;History;Thanksgiving;"""1 Decembrie 1918"" University of Alba-Iulia"
+442;Baby Turkeys are known as this?;;0.5;History;Thanksgiving;"""1 Decembrie 1918"" University of Alba-Iulia"
+443;What type of homes did the Wampanoag Indians live in and what where they called.;;0.99;History;Thanksgiving;"""1 Decembrie 1918"" University of Alba-Iulia"
+444;The Pilgrims sought other alternatives for religious freedom before coming to America (Their second choice).  Where did they first go.;;0.34;History;Thanksgiving;"""1 Decembrie 1918"" University of Alba-Iulia"
+445;This American forefather scoffed at the idea of a national day of thanksgiving;;0.97;History;Thanksgiving;"""1 Decembrie 1918"" University of Alba-Iulia"
+446;The woman perhaps most responsible for our national day of thanksgiving was named Sarah Josepha Hale. What was the name of the magazine she edited.;;0.79;History;Thanksgiving;"""1 Decembrie 1918"" University of Alba-Iulia"
+447;The ancient Chinese harvest festival Chung Ch'ui was celebrated on the 15th day of the 8th month.  This day was also believed to be this?;;0.5;History;Thanksgiving;"""1 Decembrie 1918"" University of Alba-Iulia"
+448;How does what we know about the world shape the stories we tell?;;0.5;Universal Literature;Literature Analysis;University of Pitesti
+449;How do the stories we tell about the world shape the way we view ourselves?;;0.22;Universal Literature;Literature Analysis;University of Pitesti
+450;How do our personal experiences shape our view of others?;;0.16;Universal Literature;Literature Analysis;University of Pitesti
+451;What does it mean to be an insider or an outsider?;;0.54;Universal Literature;Literature Analysis;University of Pitesti
+452;Are there universal themes in literature that are of interest or concern to all cultures and societies?;;0.95;Universal Literature;Literature Analysis;University of Pitesti
+453;What are the characteristics or elements that cause a piece of literature to endure?;;0.09;Universal Literature;Literature Analysis;University of Pitesti
+454;What are the major characteristics of traditional literature?;;0.44;Universal Literature;Movements;University of Pitesti
+455;Why is secular literature an important source of history?;;0.69;Universal Literature;Movements;University of Pitesti
+456;What is Socialist Realism in literature?;;0.82;Universal Literature;Movements;University of Pitesti
+457;Who are the ghosts in ''The Woman Warrior''?;;0.47;Universal Literature;Movements;University of Pitesti
+458;"Does the work of Toni Morrison and Octavia Butler have any common themes or concerns? Show how. Please, support your answer by quoting from Morrison's ""Recitatif"" and Butler's ""Bloodchild, ""Imago""...";;0.08;Universal Literature;Movements;University of Pitesti
+459;Where is the beach house in The Ghost Writer?;;0.11;Universal Literature;Movements;University of Pitesti
+460;What is philosophical literature?;;0.58;Universal Literature;Movements;University of Pitesti
+461;"Was the poem ""A Word to Husbands"" written by Ogden Nash?";;0.56;Universal Literature;Movements;University of Pitesti
+462;What is the theme of The Body Snatcher?;;0.64;Universal Literature;Movements;University of Pitesti
+463;What genre is The Princess Bride?;;0.92;Universal Literature;Movements;University of Pitesti
+464;Who illustrated The Little Prince?;;0.57;Universal Literature;Movements;University of Pitesti
+465;"In A Sentimental Journey, by Lawrence, how can the ""modern self"" be addressed in Yorick?";;0.21;Universal Literature;Movements;University of Pitesti
+466;"Who wrote ""The Three Little Pigs"" fairy tale?";;0.74;Universal Literature;Movements;University of Pitesti
+467;"What is Henry James' ""The Real Thing"" about?";;0.46;Universal Literature;Movements;University of Pitesti
+468;"Choose a passage in the poem ""Stopping by Woods on a Snowy Evening"" by Robert Frost and discuss the imagery that he uses.";;0.45;Universal Literature;Movements;University of Pitesti
+469;In the poem Annabel Lee, according to the narrator, why was his love taken away from him?;;0.23;Universal Literature;Movements;University of Pitesti
+470;How do the woods act as an obstacle to keeping promises in Stopping by Woods on a Snowy Evening?;;0.7;Universal Literature;Movements;University of Pitesti
+471;"What is a figure of speech used in the poem ""Stopping by Woods on a Snowy Evening""?";;0.7;Universal Literature;Movements;University of Pitesti
+472;How do you write clinchers in a book report?;;0.88;Universal Literature;Movements;University of Pitesti
+473;What is parallelism?;;0.35;Universal Literature;Movements;University of Pitesti
+474;Are two atoms of the same element identical?;;0.34;Physics 101;Physical States;University of Pitesti
+475;Can water stay liquid below zero degrees Celsius?;;0.46;Physics 101;Physical States;University of Pitesti
+476;Can you light diamond on fire?;;0.11;Physics 101;Physical States;University of Pitesti
+477;How bad of an alcoholic do you have to be to have your brain affected?;;0.49;Physics 101;Physical States;University of Pitesti
+478;How can glass be a liquid if it's so hard?;;0.24;Physics 101;Physical States;University of Pitesti
+479;How do I know if something is an acid so I can avoid eating it?;;0.79;Physics 101;Physical States;University of Pitesti
+480;How do plants get their nitrogen from the air?;;0.18;Physics 101;Physical States;University of Pitesti
+481;How does dissolving a salt molecule in water make its atoms ionize?;;0.49;Physics 101;Physical States;University of Pitesti
+482;How does plasma make a campfire flame orange?;;0.38;Physics 101;Physical States;University of Pitesti
+483;How does tomato juice make skunk smell go away?;;0.9;Physics 101;Physical States;University of Pitesti
+484;What is it about the ocean that makes it look blue when it reflects the sky?;;0.12;Physics 101;Physical States;University of Pitesti
+485;What is the difference between a chemical process and a physical process in chemistry?;;0.4;Physics 101;Physical States;University of Pitesti
+486;What kind of crystal are crystal drinking glasses made out of?;;0.56;Physics 101;Physical States;University of Pitesti
+487;What made the hole in the ozone go away?;;0.9;Physics 101;Physical States;University of Pitesti
+488;"What makes a ""fluorescent"" highlighter marker so bright?";;0.21;Physics 101;Physical States;University of Pitesti
+489;When does the breaking of chemical bonds release energy?;;0.56;Physics 101;Physical States;University of Pitesti
+490;When hang-drying clothes, which is faster, indoors or outdoors?;;0.66;Physics 101;Physical States;"""1 Decembrie 1918"" University of Alba-Iulia"
+491;Which sunscreens are chemical-free?;;0.16;Physics 101;Physical States;"""1 Decembrie 1918"" University of Alba-Iulia"
+492;Why are crystals rare?;;0.46;Physics 101;Physical States;"""1 Decembrie 1918"" University of Alba-Iulia"
+493;Why are there so many different kinds of forces in chemistry?;;0.04;Physics 101;Physical States;"""1 Decembrie 1918"" University of Alba-Iulia"
+494;Why do atoms always contain the same number of electrons and protons?;;0.33;Physics 101;Physical States;"""1 Decembrie 1918"" University of Alba-Iulia"
+495;Why doesn't the planet Uranus explode if it contains so much hydrogen and methane?;;0.18;Physics 101;Physical States;"""1 Decembrie 1918"" University of Alba-Iulia"
+496;Why don't metals burn?;;0.84;Physics 101;Physical States;"""1 Decembrie 1918"" University of Alba-Iulia"
+497;Why don't objects fuse to my finger when I touch them?;;0.94;Physics 101;Physical States;"""1 Decembrie 1918"" University of Alba-Iulia"
+498;Why is ice slippery?;;0.37;Physics 101;Physical States;"""1 Decembrie 1918"" University of Alba-Iulia"
+499;Why is lead used in pencils even though lead is poisonous?;;0.08;Chemistry 101;Elements;University of Agronomic Sciences and Veterinary Medicine Bucharest
+500;Why is mass conserved in chemical reactions?;;0.54;Chemistry 101;Elements;University of Agronomic Sciences and Veterinary Medicine Bucharest
+501;Why is plastic not used in home construction?;;0.04;Chemistry 101;Elements;University of Agronomic Sciences and Veterinary Medicine Bucharest
+502;Why is propane stored in household tanks but natural gas is not?;;0.41;Chemistry 101;Elements;University of Agronomic Sciences and Veterinary Medicine Bucharest
+503;As light from a star spreads out and weakens, do gaps form between the photons?;;0.03;Physics 101;Physical States;"""1 Decembrie 1918"" University of Alba-Iulia"
+504;Can a fire have a shadow?;;0.64;Physics 101;Physical States;"""1 Decembrie 1918"" University of Alba-Iulia"
+505;Can air make shadows?;;0.53;Physics 101;Physical States;"""1 Decembrie 1918"" University of Alba-Iulia"
+506;Can gold be created from other elements?;;0.27;Physics 101;Physical States;"""1 Decembrie 1918"" University of Alba-Iulia"
+507;Can light bend around corners?;;0.82;Physics 101;Physical States;"""1 Decembrie 1918"" University of Alba-Iulia"
+508;Can momentum be hidden to human eyes like how kinetic energy can be hidden as heat?;;0.85;Physics 101;Particles;University of Pitesti
+509;Can one bit of light bounce off another bit of light?;;0.85;Physics 101;Particles;University of Pitesti
+510;Can radio antennas emit visible light?;;0.49;Physics 101;Particles;University of Pitesti
+511;Can sound waves generate heat?;;0.36;Physics 101;Waves;University of Pitesti
+512;Can the decay half-life of a radioactive material be changed?;;0.26;Physics 101;Particles;University of Pitesti
+513;Can you go fast enough to get enough mass to become a black hole?;;0.56;Physics 101;Quantum mechanics;University of Pitesti
+514;Can you make a shock wave of light by breaking the light barrier just like supersonic airplanes break the sound barrier?;;0.7;Physics 101;Waves;University of Pitesti
+515;Can you make a sunset in a cup of milk?;;0.61;Physics 101;Waves;University of Pitesti
+516;Could electronic devices charge themselves without being plugged into an electricity source?;;0.92;Physics 101;Electricity;University of Pitesti
+517;Could scientists perfectly simulate the entire universe in a computer, down to the last atom?;;0.67;Physics 101;Physical States;University of Pitesti
+518;Do atoms ever actually touch each other?;;0.77;Physics 101;Physical States;University of Pitesti
+519;Do flames contain plasma?;;0.57;Physics 101;Electricity;University of Pitesti
+520;Does a source of electricity ever run out of electrons?;;0.9;Physics 101;Electricity;University of Pitesti
+521;Does an atom have a color?;;0.94;Physics 101;Quantum mechanics;University of Pitesti
+522;Does an electron in an atom move at all?;;0.15;Physics 101;Quantum mechanics;University of Pitesti
+523;Does the negative mass of antimatter mean that it's gravitationally repelled from stars?;;0.92;Physics 101;Quantum mechanics;University of Pitesti
+524;Does time go faster at the top of a building compared to the bottom?;;0.65;Physics 101;Quantum mechanics;University of Pitesti
+525;How bad would a person's injuries be if an elevator's cables snapped at the 100th floor so that the elevator fell to the bottom?;;0.86;Physics 101;Quantum mechanics;University of Pitesti
+526;How can a clear object be transparent and visible at the same time?;;0.12;Physics 101;Quantum mechanics;University of Pitesti
+527;How can a material at a certain temperature have all of its molecules at the same energy?;;0.8;Physics 101;Quantum mechanics;University of Pitesti
+528;How can an electron leap between atomic levels without passing through all the space in between?;;0.19;Physics 101;Quantum mechanics;University of Pitesti
+529;How can it be so hard to drag rubber across smooth glass if friction is caused by surface roughness?;;0.31;Physics 101;Quantum mechanics;University of Pitesti
+530;How can radioactive decay just happen with nothing triggering it?;;0.08;Physics 101;Quantum mechanics;University of Pitesti
+531;How can we travel to the past?;;0.83;Physics 101;Quantum mechanics;University of Pitesti
+532;How did Archimedes use mirrors to burn up invaders' ships?;;0.6;Physics 101;Energy;University of Pitesti
+533;How do airplanes fly upside down if it's the shape of the wings that make them fly?;;0.66;Physics 101;Energy;University of Pitesti
+534;How do free energy machines work?;;0.96;Physics 101;Energy;University of Pitesti
+535;How do levers create energy if the conservation of energy does not allow energy to be created?;;0.78;Physics 101;Energy;University of Pitesti
+536;How do projectors project the color black?;;0.97;Physics 101;Energy;University of Pitesti
+537;How do scientists cool objects to absolute zero?;;0.58;Physics 101;Energy;University of Pitesti
+538;How do tractor beams work?;;0.84;Physics 101;Energy;University of Pitesti
+539;How do you focus regular light to make it a laser beam?;;0.25;Physics 101;Energy;University of Pitesti
+540;How do you make a one-photon-thick beam of light?;;0.66;Physics 101;Energy;University of Pitesti
+541;How does a microwave oven heat up food even though it emits no thermal radiation?;;0.65;Physics 101;Energy;University of Pitesti
+542;How does a penny left on the track derail a train?;;0.95;Physics 101;Energy;University of Pitesti
+543;How does a photon accelerate to light speed so quickly?;;0.69;Physics 101;Energy;University of Pitesti
+544;How does quantum theory allow a rock to turn suddenly into a duck?;;0.97;Physics 101;Quantum mechanics;University of Pitesti
+545;How does sound going slower in water make it hard to talk to someone underwater?;;0.53;Physics 101;Energy;University of Pitesti
+546;How high does a building have to be for a penny dropped from the top to kill a person on the ground?;;0.7;Physics 101;Energy;University of Pitesti
+547;How is a magnetic field just an electric field with relativity applied?;;0.9;Physics 101;Energy;University of Pitesti
+548;How long can you use a cell phone before getting a brain tumor?;;0.59;Physics 101;Energy;University of Pitesti
+549;If I hammered and flattened a penny enough, could I cover the entire earth with it?;;0.3;Physics 101;Energy;University of Pitesti
+550;If I'm on an elevator that breaks loose and plummets down the shaft, can I avoid harm by jumping at the last second?;;0.69;Physics 101;Energy;University of Pitesti
+551;Is it possible to create magnetic waves?;;0.29;Physics 101;Energy;University of Pitesti
+552;Is light a particle or a wave?;;0.43;Physics 101;Quantum mechanics;University of Pitesti
+553;Is metal a good heat shield?;;0.03;Physics 101;Quantum mechanics;University of Pitesti
+554;Is the reason that nothing can go faster than light because we have not tried hard enough?;;0.89;Physics 101;Quantum mechanics;University of Pitesti
+555;Is there any difference between antimatter, dark matter, dark energy, and degenerate matter?;;0.44;Physics 101;Quantum mechanics;University of Pitesti
+556;Light has no mass so it also has no energy according to Einstein, but how can sunlight warm the earth without energy?;;0.01;Physics 101;Quantum mechanics;University of Pitesti
+557;Since gravity is unlimited, can we use it as an infinite energy source?;;0.82;Physics 101;Quantum mechanics;University of Pitesti
+558;What are some other ways to save energy in a car besides turning off the air conditioner and rolling down the windows?;;0.99;Physics 101;Quantum mechanics;University of Pitesti
+559;What did Schrodinger's Cat experiment prove?;;0.29;Physics 101;Quantum mechanics;University of Pitesti
+560;What is the shape of an electron?;;0.62;Physics 101;Quantum mechanics;University of Pitesti
+561;What is the speed of dark?;;0.31;Physics 101;Quantum mechanics;University of Pitesti
+562;What is the speed of electricity?;;0.74;Physics 101;Quantum mechanics;University of Pitesti
+563;What is the speed of gravity?;;0.28;Physics 101;Quantum mechanics;University of Pitesti
+564;What is the strongest magnetic field possible? Is there a limit?;;0.11;Physics 101;Quantum mechanics;University of Pitesti
+565;What keeps a bicycle balanced?;;0.08;Physics 101;Quantum mechanics;University of Pitesti
+566;What makes heat rise?;;0.67;Physics 101;Quantum mechanics;University of Pitesti
+567;What makes radioactive atoms get old so quickly and decay?;;0.02;Physics 101;Quantum mechanics;University of Pitesti
+568;What makes the light waves in laser light parallel?;;0.46;Physics 101;Quantum mechanics;University of Pitesti
+569;What psychological effect makes notes on a piano that are an octave apart sound the same?;;0.32;Physics 101;Quantum mechanics;University of Pitesti
+570;What stops a piece of paper from being folded more than seven times?;;0.92;Physics 101;Quantum mechanics;University of Pitesti
+571;What would happen if you drove your car close to the speed of light and turned on the headlights?;;0.72;Physics 101;Quantum mechanics;University of Pitesti
+572;When does a light beam have only a single frequency?;;0.09;Physics 101;Quantum mechanics;University of Pitesti
+573;When I bump one end of a long metal bar, the other end instantaneously moves. Can I use this to send messages faster than light?;;0.07;Physics 101;Quantum mechanics;University of Pitesti
+574;When I sit by a campfire, how does its hot air heat me?;;0.06;Physics 101;Quantum mechanics;University of Pitesti
+575;When I step out of the shower, what makes the tile floor so much colder than the bathroom mat?;;0.62;Physics 101;Quantum mechanics;University of Pitesti
+576;Why are all metals magnetic?;;0.68;Physics 101;Quantum mechanics;University of Pitesti
+577;Why are sound waves invisible?;;0.79;Physics 101;Quantum mechanics;University of Pitesti
+578;Why are the microwaves in a microwave oven tuned to water?;;0.83;Physics 101;Quantum mechanics;University of Pitesti
+579;Why are there only six fundamental colors: red, orange, yellow, green, blue, and violet?;;0.62;Physics 101;Energy;University of Pitesti
+580;Why can't flat lenses focus light?;;0.83;Physics 101;Energy;University of Pitesti
+581;Why do diamonds last forever?;;0.7;Physics 101;Electricity;University of Pitesti
+582;Why do mirrors flip left to right and not up to down?;;0.5;Physics 101;Quantum mechanics;University of Pitesti
+583;Why do quantum effects only happen on the atomic scale?;;0.43;Physics 101;Electricity;University of Pitesti
+584;Why does a rainbow contain a pure spread of spectral colors?;;0.95;Physics 101;Electricity;University of Pitesti
+585;Why does a rainbow exist only in a narrow band?;;0.73;Physics 101;Electricity;University of Pitesti
+586;Why does air friction affect a car's gas mileage?;;1;Physics 101;Electricity;University of Pitesti
+587;Why does lightning push electricity through air, but common batteries do not?;;0.6;Physics 101;Electricity;University of Pitesti
+588;Why does my room get dark when I turn the lights off even if my window is shut?;;0.59;Physics 101;Electricity;University of Pitesti
+589;Why does water make a shirt darker?;;0.82;Physics 101;Electricity;University of Pitesti
+590;Why doesn't light carry momentum?;;0.68;Physics 101;Quantum mechanics;University of Pitesti
+591;Why doesn't my laptop emit radiation?;;0.41;Physics 101;Quantum mechanics;University of Pitesti
+592;Why don't atoms collapse if they are mostly empty space?;;0.44;Physics 101;Quantum mechanics;University of Pitesti
+593;Why don't electrons in the atom enter the nucleus?;;0.15;Physics 101;Quantum mechanics;University of Pitesti
+594;Why don't I feel the miles of air above me that are crushing me down?;;0.87;Physics 101;Electricity;University of Pitesti
+595;Why don't scientists use fractal concepts more considering that fractals are everywhere?;;0.99;Physics 101;Electricity;University of Pitesti
+596;Why is a 12-volt household battery harmless, but the shock from a 12-volt car battery will kill you?;;0.9;Physics 101;Electricity;University of Pitesti
+597;Why is gravity not a real force?;;0.02;Physics 101;Quantum mechanics;University of Pitesti
+598;Why is light pure energy?;;0.64;Physics 101;Quantum mechanics;University of Pitesti
+599;Why is physics scale invariant?;;0.13;Physics 101;Quantum mechanics;University of Pitesti
+600;Why is the centrifugal force talked about so much if it's not real?;;0.72;Physics 101;Forces;University of Pitesti
+601;Why is the lowest temperature called absolute zero if it's relative to the frame of reference?;;0.79;Physics 101;Energy;University of Pitesti
+602;Why is time frozen from light's perspective?;;0.81;Physics 101;Quantum mechanics;University of Pitesti
+603;Why was color invented by humans?;;0.25;Physics 101;Quantum mechanics;University of Pitesti
+604;Why were electrons chosen to be negatively charged? Wouldn't it make more sense to call electrons positively charged because when they move they make electricity?;;0.05;Physics 101;Quantum mechanics;University of Pitesti
+605;Why will a delivery truck filled with birds sitting on its floor be heavier than a truck with the same birds flying around inside.;;0.54;Physics 101;Forces;University of Pitesti
+606;(a) Calculate Earth’s average speed relative to the Sun. (b) What is its average velocity over a period of one year?;;0.62;Physics 101;Forces;University of Pitesti
+607;A helicopter blade spins at exactly 100 revolutions per minute. Its tip is 5.00 m from the center of rotation. (a) Calculate the average speed of the blade tip in the helicopter’s frame of reference. (b) What is its average velocity over one revolution?;;0.9;Physics 101;Forces;University of Pitesti
+608;The North American and European continents are moving apart at a rate of about 3 cm/y. At this rate how long will it take them to drift 500 km farther apart than they are at present?;;0.37;Physics 101;Forces;University of Pitesti
+609;Land west of the San Andreas fault in southern California is moving at an average velocity of about 6 cm/y northwest relative to land east of the fault. Los Angeles is west of the fault and may thus someday be at the same latitude as San Francisco, which is east of the fault. How far in the future will this occur if the displacement to be made is 590 km northwest, assuming the motion remains constant?;;0.86;Physics 101;Forces;University of Pitesti
+610;On May 26, 1934, a streamlined, stainless steel diesel train called the Zephyr set the world’s nonstop long-distance speed record for trains. Its run from Denver to Chicago took 13 hours, 4 minutes, 58 seconds, and was witnessed by more than a million people along the route. The total distance traveled was 1633.8 km. What was its average speed in km/h and m/s?;;0.17;Physics 101;Forces;University of Pitesti
+611;Tidal friction is slowing the rotation of the Earth. As a result, the orbit of the Moon is increasing in radius at a rate of approximately 4 cm/year. Assuming this to be a constant rate, how many years will pass before the radius of the Moon’s orbit increases by 3.84×106m (1%)?;;0.39;Physics 101;Forces;University of Pitesti
+612;A student drove to the university from her home and noted that the odometer reading of her car increased by 12.0 km. The trip took 18.0 min. (a) What was her average speed? (b) If the straight-line distance from her home to the university is 10.3 km in a direction 25.0º south of east, what was her average velocity? (c) If she returned home by the same path 7 h 30 min after she left, what were her average speed and velocity for the entire trip?;;0.59;Physics 101;Forces;University of Pitesti
+613;The speed of propagation of the action potential (an electrical signal) in a nerve cell depends (inversely) on the diameter of the axon (nerve fiber). If the nerve cell connecting the spinal cord to your feet is 1.1 m long, and the nerve impulse speed is 18 m/s, how long does it take for the nerve signal to travel this distance?;;0.65;Physics 101;Forces;University of Pitesti
+614;Conversations with astronauts on the lunar surface were characterized by a kind of echo in which the earthbound person’s voice was so loud in the astronaut’s space helmet that it was picked up by the astronaut’s microphone and transmitted back to Earth. It is reasonable to assume that the echo time equals the time necessary for the radio wave to travel from the Earth to the Moon and back (that is, neglecting any time delays in the electronic equipment). Calculate the distance from Earth to the Moon given that the echo time was 2.56 s and that radio waves travel at the speed of light (3.00×108m/s).;;0.35;Physics 101;Forces;University of Pitesti
+615;A football quarterback runs 15.0 m straight down the playing field in 2.50 s. He is then hit and pushed 3.00 m straight backward in 1.75 s. He breaks the tackle and runs straight forward another 21.0 m in 5.20 s. Calculate his average velocity (a) for each of the three intervals and (b) for the entire motion.;;0.72;Physics 101;Forces;University of Pitesti
+616;The planetary model of the atom pictures electrons orbiting the atomic nucleus much as planets orbit the Sun. In this model you can view hydrogen, the simplest atom, as having a single electron in a circular orbit 1.06×10−10m in diameter. (a) If the average speed of the electron in this orbit is known to be 2.20×106m/s, calculate the number of revolutions per second it makes about the nucleus. (b) What is the electron’s average velocity per revolution?;;0.53;Physics 101;Forces;University of Pitesti
+617;Calculate the displacement and velocity at times of (a) 0.500, (b) 1.00, (c) 1.50, and (d) 2.00 s for a ball thrown straight up with an initial velocity of 15.0 m/s. Take the point of release to be y0=0.;;0.44;Physics 101;Forces;University of Pitesti
+618;Calculate the displacement and velocity at times of (a) 0.500, (b) 1.00, (c) 1.50, (d) 2.00, and (e) 2.50 s for a rock thrown straight down with an initial velocity of 14.0 m/s from the Verrazano Narrows Bridge in New York City. The roadway of this bridge is 70.0 m above the water.;;0.39;Physics 101;Forces;University of Pitesti
+619;A basketball referee tosses the ball straight up for the starting tip-off. At what velocity must a basketball player leave the ground to rise 1.25 m above the floor in an attempt to get the ball?;;0.96;Physics 101;Forces;University of Pitesti
+620;A rescue helicopter is hovering over a person whose boat has sunk. One of the rescuers throws a life preserver straight down to the victim with an initial velocity of 1.40 m/s and observes that it takes 1.8 s to reach the water. (a) List the knowns in this problem. (b) How high above the water was the preserver released? Note that the downdraft of the helicopter reduces the effects of air resistance on the falling life preserver, so that an acceleration equal to that of gravity is reasonable.;;0.5;Physics 101;Forces;University of Pitesti
+621;A dolphin in an aquatic show jumps straight up out of the water at a velocity of 13.0 m/s. (a) List the knowns in this problem. (b) How high does his body rise above the water? To solve this part, first note that the final velocity is now a known and identify its value. Then identify the unknown, and discuss how you chose the appropriate equation to solve for it. After choosing the equation, show your steps in solving for the unknown, checking units, and discuss whether the answer is reasonable. (c) How long is the dolphin in the air? Neglect any effects due to his size or orientation.;;0.69;Physics 101;Forces;University of Pitesti
+622;A swimmer bounces straight up from a diving board and falls feet first into a pool. She starts with a velocity of 4.00 m/s, and her takeoff point is 1.80 m above the pool. (a) How long are her feet in the air? (b) What is her highest point above the board? (c) What is her velocity when her feet hit the water?;;0.62;Physics 101;Forces;University of Pitesti
+623;(a) Calculate the height of a cliff if it takes 2.35 s for a rock to hit the ground when it is thrown straight up from the cliff with an initial velocity of 8.00 m/s. (b) How long would it take to reach the ground if it is thrown straight down with the same speed?;;0.33;Physics 101;Forces;University of Pitesti
+624;A very strong, but inept, shot putter puts the shot straight up vertically with an initial velocity of 11.0 m/s. How long does he have to get out of the way if the shot was released at a height of 2.20 m, and he is 1.80 m tall?;;0.53;Physics 101;Forces;University of Pitesti
+625;You throw a ball straight up with an initial velocity of 15.0 m/s. It passes a tree branch on the way up at a height of 7.00 m. How much additional time will pass before the ball passes the tree branch on the way back down?;;0.36;Physics 101;Forces;University of Pitesti
+626;A kangaroo can jump over an object 2.50 m high. (a) Calculate its vertical speed when it leaves the ground. (b) How long is it in the air?;;0.63;Physics 101;Forces;University of Pitesti
+627;Standing at the base of one of the cliffs of Mt. Arapiles in Victoria, Australia, a hiker hears a rock break loose from a height of 105 m. He can’t see the rock right away but then does, 1.50 s later. (a) How far above the hiker is the rock when he can see it? (b) How much time does he have to move before the rock hits his head?;;0.33;Physics 101;Forces;University of Pitesti
+628;An object is dropped from a height of 75.0 m above ground level. (a) Determine the distance traveled during the first second. (b) Determine the final velocity at which the object hits the ground. (c) Determine the distance traveled during the last second of motion before hitting the ground.;;0.26;Physics 101;Forces;University of Pitesti
+629;There is a 250-m-high cliff at Half Dome in Yosemite National Park in California. Suppose a boulder breaks loose from the top of this cliff. (a) How fast will it be going when it strikes the ground? (b) Assuming a reaction time of 0.300 s, how long will a tourist at the bottom have to get out of the way after hearing the sound of the rock breaking loose (neglecting the height of the tourist, which would become negligible anyway if hit)? The speed of sound is 335 m/s on this day.;;0.56;Physics 101;Forces;University of Pitesti
+630;A ball is thrown straight up. It passes a 2.00-m-high window 7.50 m off the ground on its path up and takes 0.312 s to go past the window. What was the ball’s initial velocity? Hint: First consider only the distance along the window, and solve for the ball's velocity at the bottom of the window. Next, consider only the distance from the ground to the bottom of the window, and solve for the initial velocity using the velocity at the bottom of the window as the final velocity.;;0.35;Physics 101;Forces;University of Pitesti
+631;Suppose you drop a rock into a dark well and, using precision equipment, you measure the time for the sound of a splash to return. (a) Neglecting the time required for sound to travel up the well, calculate the distance to the water if the sound returns in 2.0000 s. (b) Now calculate the distance taking into account the time for sound to travel up the well. The speed of sound is 332.00 m/s in this well.;;0.58;Physics 101;Forces;University of Pitesti
+632;A steel ball is dropped onto a hard floor from a height of 1.50 m and rebounds to a height of 1.45 m. (a) Calculate its velocity just before it strikes the floor. (b) Calculate its velocity just after it leaves the floor on its way back up. (c) Calculate its acceleration during contact with the floor if that contact lasts 0.0800 ms (8.00×10−5s). (d) How much did the ball compress during its collision with the floor, assuming the floor is absolutely rigid?;;0.12;Physics 101;Forces;University of Pitesti
+633;A coin is dropped from a hot-air balloon that is 300 m above the ground and rising at 10.0 m/s upward. For the coin, find (a) the maximum height reached, (b) its position and velocity 4.00 s after being released, and (c) the time before it hits the ground.;;0.02;Physics 101;Forces;University of Pitesti
+634;A soft tennis ball is dropped onto a hard floor from a height of 1.50 m and rebounds to a height of 1.10 m. (a) Calculate its velocity just before it strikes the floor. (b) Calculate its velocity just after it leaves the floor on its way back up. (c) Calculate its acceleration during contact with the floor if that contact lasts 3.50 ms (3.50×10−3s). (d) How much did the ball compress during its collision with the floor, assuming the floor is absolutely rigid?;;0.7;Physics 101;Forces;University of Pitesti
+635;What does a prime number consists in?;;0.09;Mathematics 101;Numbers;University of Pitesti
+636;Are all the squares rectangles?;;0.46;Mathematics 101;Numbers;University of Pitesti
+637;What is a modulus of a number?;;0.66;Mathematics 101;Numbers;University of Pitesti
+638;Are all the squares rhombuses?;;0.99;Mathematics 101;Numbers;University of Pitesti
+639;Is zero an even number?;;0.91;Mathematics 101;Numbers;University of Pitesti
+640;Circumference and circle: Are they the same?;;0.32;Mathematics 101;Numbers;University of Pitesti
+641;Why does every number raised to the power of zero equal one?;;0.21;Mathematics 101;Numbers;University of Pitesti
+642;What is an even function?;;0.71;Mathematics 101;Numbers;University of Pitesti
+643;What is a regular polygon?;;0.88;Mathematics 101;Numbers;University of Pitesti
+644;What is an odd function?;;0.93;Mathematics 101;Numbers;University of Pitesti
+645;What are divisible criteria?;;0.4;Mathematics 101;Numbers;University of Pitesti
+646;I have difficulty in the times table, can you help me?;;0.77;Mathematics 101;Numbers;University of Pitesti
+647;What is a rational number?;;0.88;Mathematics 101;Numbers;University of Pitesti
+648;What is the difference between a convex and a non-convex polygon?;;0.41;Mathematics 101;Numbers;University of Pitesti
+649;What is the difference between an internal and an external angle?;;0.29;Mathematics 101;Numbers;University of Pitesti
+650;Natural logarithm and Napierian logarithm: Are they the same thing?;;0.9;Mathematics 101;Numbers;University of Pitesti
+651;How much time does 1 million seconds correspond to?;;0.22;Mathematics 101;Numbers;University of Pitesti
+652;What is a fractional number?;;0.28;Mathematics 101;Numbers;University of Pitesti
+653;Why can’t we divide a number by zero?;;0.26;Mathematics 101;Numbers;University of Pitesti
+654;What is a trigonometric circle?;;0;Mathematics 101;Numbers;University of Pitesti
+655;Are weight and mass the same thing?;;0.93;Mathematics 101;Numbers;University of Pitesti
+656;What is the slope of a straight line?;;0.04;Mathematics 101;Numbers;University of Pitesti
+657;How many zeros are there in a billion?;;0.49;Mathematics 101;Numbers;University of Pitesti
+658;What is a check digit?;;0.73;Mathematics 101;Numbers;University of Pitesti
+659;Was Mathematics invented or found?;;0.6;Mathematics 101;Numbers;University of Pitesti
+660;Why does a circle measure 360 degrees?;;0.31;Mathematics 101;Numbers;University of Pitesti
+661;Regarding polynomials – What does the remainder theorem consist of?;;0.52;Mathematics 101;Numbers;University of Pitesti
+662;What do Googol and Googolplex mean?;;0.25;Mathematics 101;Numbers;University of Pitesti
+663;What is the Hondt method?;;0.07;Mathematics 101;Numbers;University of Pitesti
+664;What does harmonic mean consist of?;;0.1;Mathematics 101;Numbers;University of Pitesti
+665;How does the rule of three work with direct proportionality?;;0.17;Mathematics 101;Numbers;University of Pitesti
+666;How does the rule of three work with inverse proportionality?;;0.26;Mathematics 101;Numbers;University of Pitesti
+667;What is Maths?;;0.96;Mathematics 101;Numbers;University of Pitesti
+668;What order must letters have to name an angle?;;0.81;Mathematics 101;Numbers;University of Pitesti
+669;Why are there leap years?;;0.03;Mathematics 101;Numbers;University of Pitesti
+670;What is the right order of the mathematical operations?;;0.61;Mathematics 101;Numbers;University of Pitesti
+671;Why are there two scales to measure temperature?;;0.71;Mathematics 101;Numbers;University of Pitesti
+672;Is it likely to win the Euromilhões?;;0.93;Mathematics 101;Numbers;University of Pitesti
+673;When I write 2K, Am I using a roman algorithm?;;0.11;Mathematics 101;Numbers;University of Pitesti
+674;Is volume and capacity the same thing?;;0.67;Mathematics 101;Numbers;University of Pitesti
+675;How do you get the size number of your footwear?;;0.16;Mathematics 101;Numbers;University of Pitesti
+676;What is a light–year?;;0.45;Mathematics 101;Numbers;University of Pitesti
+677;How does interest work?;;0.48;Mathematics 101;Numbers;University of Pitesti
+678;How to make a rounding off?;;0.94;Mathematics 101;Numbers;University of Pitesti
+679;How do you calculate the Body Mass Index?;;0.25;Mathematics 101;Numbers;University of Pitesti
+680;How to calculate a discount?;;0.79;Mathematics 101;Numbers;University of Pitesti
+681;What is inflation?;;0.07;Mathematics 101;Numbers;University of Pitesti
+682;What relation is there between Maths and Music?;;0.48;Mathematics 101;Numbers;University of Pitesti
+683;What is a golden number?;;0.69;Mathematics 101;Numbers;University of Pitesti
+684;What are perfect numbers?;;0.49;Mathematics 101;Numbers;University of Pitesti
+685;How does a GPS work?;;0.91;Mathematics 101;Numbers;University of Pitesti
+686;How do you read a number according to Roman Numerals?;;0.02;Mathematics 101;Numbers;University of Pitesti
+687;Why do we use the letter m to represent the slope?;;0.87;Mathematics 101;Numbers;University of Pitesti
+688;What is the difference between a quadrangular prism and a parallelepiped?;;0.18;Mathematics 101;Numbers;University of Pitesti
+689;How is Easter day calculated?;;0.63;Mathematics 101;Numbers;University of Pitesti
+690;What is the importance of prime numbers?;;0.13;Mathematics 101;Numbers;University of Pitesti
+691;How to calculate compound interests?;;1;Mathematics 101;Numbers;University of Pitesti
+692;How do you do the casting out nines?;;0.1;Mathematics 101;Numbers;University of Pitesti
+693;Why isn't there a Nobel Prize for Mathematics?;;0.25;Mathematics 101;Numbers;University of Pitesti
+694;What is the name of the terms of the four essential arithmetic operations?;;0.9;Mathematics 101;Numbers;University of Pitesti
+695;How do you distinguish permutations from combinations?;;0.35;Mathematics 101;Numbers;University of Pitesti
+696;What is the Pythagoras's Theorem for?;;0.67;Mathematics 101;Geometry;University of Pitesti
+697;What is an equation?;;0.04;Mathematics 101;Equations;University of Pitesti
+698;What is a quadratic equation?;;0.77;Mathematics 101;Equations;University of Pitesti
+699;What are relatively prime numbers?;;0.91;Mathematics 101;Equations;University of Pitesti
+700;Why do I have to learn Maths?;;0.74;Mathematics 101;Equations;University of Pitesti
+701;What are the three famous problems of ancient times?;;0.4;Mathematics 101;Equations;University of Pitesti
+702;What are the numbers belonging to the Fibonnacci's sequence?;;0.2;Mathematics 101;Equations;University of Pitesti
+703;How to solve first degree equations?;;0.2;Mathematics 101;Equations;University of Pitesti
+704;How many subsets are there in a set?;;0.59;Mathematics 101;Equations;University of Pitesti
+705;What are conic sections?;;0.69;Mathematics 101;Geometry;University of Pitesti
+706;What is the difference between cardinal and ordinal numbers?;;0.85;Mathematics 101;Numbers;University of Pitesti
+707;How do I convert a decimal number into a fraction?;;0.03;Mathematics 101;Numbers;University of Pitesti
+708;Can we say that today is twice hotter than yesterday?;;0.17;Mathematics 101;Numbers;University of Pitesti
+709;If I multiply two negative numbers the result will be a positive one, why does it happen?;;0.36;Mathematics 101;Numbers;University of Pitesti
+710;How do you calculate successive percentages?;;0.08;Mathematics 101;Numbers;University of Pitesti
+711;What is trigonometry for?;;0.97;Mathematics 101;Trigonometry;University of Pitesti
+712;What is the Fermat's Last Theorem?;;0.38;Mathematics 101;Trigonometry;University of Pitesti
+713;How many centimetres is an inch?;;0.75;Mathematics 101;Trigonometry;University of Pitesti
+714;What is a Parabola?;;0.32;Mathematics 101;Geometry;University of Pitesti
+715;What is an ellipse? ;;0.35;Mathematics 101;Geometry;University of Pitesti
+716;How many water drops are there in the ocean?;;0.87;Mathematics 101;Numbers;University of Pitesti
+717;Does 30% of inclination mean the triple of 10%?;;0.88;Mathematics 101;Numbers;University of Pitesti
+718;What is the Pascal's Triangle useful for?;;0.1;Mathematics 101;Numbers;University of Pitesti
+719;How can we solve problems?;;0.18;Mathematics 101;Numbers;University of Pitesti
+720;What is a point of inflection?;;0.42;Mathematics 101;Calculus;University of Pitesti
+721;What are absolute and relative extremes?;;0.31;Mathematics 101;Calculus;University of Pitesti
+722;How do I convert a number into Roman Numerals?;;1;Mathematics 101;Numbers;University of Pitesti
+723;What are natural, whole and rational sets?;;0.37;Mathematics 101;Numbers;University of Pitesti
+724;How do you calculate a square root without a calculator?;;0.57;Mathematics 101;Numbers;University of Pitesti
+725;What is the scientific notation?;;0.36;Mathematics 101;Numbers;University of Pitesti
+726;How to calculate the G.C.D.?;;0.38;Mathematics 101;Numbers;University of Pitesti
+727;How do you calculate the L.C.M.?;;0.23;Mathematics 101;Numbers;University of Pitesti
+728;What is the history of number pi?;;0.19;Mathematics 101;Numbers;University of Pitesti
+729;What is the Integral and Differential calculus useful for?;;0.14;Mathematics 101;Calculus;University of Pitesti
+730;What relation is there between the volume of a cone and the one of a cylinder?;;0.71;Mathematics 101;Calculus;University of Pitesti
+731;How do you calculate the sum of all the terms of a succession?;;0.86;Mathematics 101;Calculus;University of Pitesti
+732;What are scales useful for?;;0.05;Mathematics 101;Numbers;University of Pitesti
+733;How do you calculate the area of a cylinder surface?;;0.23;Mathematics 101;Numbers;University of Pitesti
+734;What are isometries?;;0.65;Mathematics 101;Numbers;University of Pitesti
+735;Why kids under-perform in math?;;0.69;Mathematics 101;Numbers;University of Pitesti
+736;How to check if a number is prime?;;0.6;Mathematics 101;Numbers;University of Pitesti
+737;Evaluate the following integral. \displaystyle \int \dfrac{dx}{\sqrt{3 - 4x^2}};;0.47;Mathematics 101;Calculus;"""1 Decembrie 1918"" University of Alba-Iulia"
+738;Find the mass of a metal rod that is 8 m long (starting at x = 0) and has a density function of \rho(x) = e^{x/2} kg/m.;;0.2;Mathematics 101;Calculus;"""1 Decembrie 1918"" University of Alba-Iulia"
+739;Evaluate the integral. \int(cos^5 \alpha)/(\sqrt sin \alpha) \times d \alpha;;0.78;Mathematics 101;Calculus;"""1 Decembrie 1918"" University of Alba-Iulia"
+740;Evaluate the integral. \int t sin^2 t dt;;0.11;Mathematics 101;Calculus;"""1 Decembrie 1918"" University of Alba-Iulia"
+741;Given f(x) = \left\{ \begin{array}{ll} 2 & \textrm{for} \enspace x less than 0\\ x - 1 & \textrm{for} \enspace x \geq 0 \end{array} \right., what's the value of \displaystyle \int_{-2}^8 f(x)\,dx?;;0.11;Mathematics 101;Calculus;"""1 Decembrie 1918"" University of Alba-Iulia"
+742;Evaluate the following integral. \int x^4 11^{x^5 + 4} \, dx;;0.77;Mathematics 101;Calculus;"""1 Decembrie 1918"" University of Alba-Iulia"
+743;Evaluate \displaystyle \int \dfrac{dx}{\sec x + 1}.;;0.95;Mathematics 101;Calculus;"""1 Decembrie 1918"" University of Alba-Iulia"
+744;Find \displaystyle \int_0^1 \dfrac{x + 1}{x + 2}\,dx.;;0.45;Mathematics 101;Calculus;"""1 Decembrie 1918"" University of Alba-Iulia"
+745;Find \displaystyle \int \dfrac{x^4 + 6x^3}{x}\,dx.;;0.91;Mathematics 101;Calculus;"""1 Decembrie 1918"" University of Alba-Iulia"
+746;Evaluate the integral. \int_1^4 \dfrac{3^{\ln x}}{x}\,dx (a) \dfrac{3^{\ln 4} - 1}{\ln 3} (b) \dfrac{11}{\ln 3} (c) \dfrac{78}{\ln 3} (d) \dfrac{3^{\ln 4}}{\ln 3};;0.62;Mathematics 101;Calculus;"""1 Decembrie 1918"" University of Alba-Iulia"
+747;Find \displaystyle \int \dfrac{x - 5}{x^2 + 16}\,dx.;;0.03;Mathematics 101;Calculus;"""1 Decembrie 1918"" University of Alba-Iulia"
+748;Make a substitution to express the integrand as a rational function and then evaluate the integral. \int_4^{25} \dfrac{\sqrt x}{x - 100}\,dx;;0.96;Mathematics 101;Calculus;"""1 Decembrie 1918"" University of Alba-Iulia"
+749;Find dy/dx for y = \cos^2 x without the chain rule.;;0.36;Mathematics 101;Calculus;"""1 Decembrie 1918"" University of Alba-Iulia"
+750;If f(x) = \left\{ \begin{array}{ll} 6x & x\ greater than 0 \\ 3x^2 - 2x & x \leq 0 \\ \end{array} \right. then \int_{-2}^2 f(x) \,dx = (a) 24 (b) 4 (c) 0 (d) 18;;0.87;Mathematics 101;Calculus;"""1 Decembrie 1918"" University of Alba-Iulia"
+751;Integrate: integral from 2 to 4 of x/(sqrt(6x - 8 - x^2)) dx. ;;0.95;Mathematics 101;Calculus;"""1 Decembrie 1918"" University of Alba-Iulia"
+752;Why are cells different from each other?;;0.35;Biology 101;The Cell;"""1 Decembrie 1918"" University of Alba-Iulia"
+753;Consider a liver cell. How many chromosomes are present and how many alleles of each gene are present?;;0.52;Biology 101;The Cell;"""1 Decembrie 1918"" University of Alba-Iulia"
+754;The number of sets of chromosomes found in a somatic cell of grasshopper is _____. Explain.;;0.43;Biology 101;The Cell;"""1 Decembrie 1918"" University of Alba-Iulia"
+755;In your body cells, _____ or cells, you have _____ chromosomes grouped into _____ pairs.;;0.56;Biology 101;The Cell;"""1 Decembrie 1918"" University of Alba-Iulia"
+756;What number and types of chromosomes are found in a human somatic cell?;;0.54;Biology 101;The Cell;"""1 Decembrie 1918"" University of Alba-Iulia"
+757;What is the average DNA content in a human somatic cell?;;0.2;Biology 101;The Cell;"""1 Decembrie 1918"" University of Alba-Iulia"
+758;Why do body cells (somatic cells) need to divide and how do they know when to divide?;;0.15;Biology 101;The Cell;"""1 Decembrie 1918"" University of Alba-Iulia"
+759;Explain how two different cell types from the same organism will have identical genomes but may have vastly divergent proteomes.;;0.07;Biology 101;The Cell;"""1 Decembrie 1918"" University of Alba-Iulia"
+760;(a) What do cancer cells, embryonic stem cells, and adult stem cells have in common? (b) How do they differ?;;1;Biology 101;The Cell;"""1 Decembrie 1918"" University of Alba-Iulia"
+761;What is the difference between a somatic cell and a sex cell?;;0.74;Biology 101;The Cell;"""1 Decembrie 1918"" University of Alba-Iulia"
+762;Describe somatic cells with reference to the number and type of chromosomes associated with them.;;0.09;Biology 101;The Cell;"""1 Decembrie 1918"" University of Alba-Iulia"
+763;In mammals, the egg cell genome is unmethylated compared to the sperm cell and both are unmethylated compared to a somatic cell. Which cell has the most number of active genes?;;0.46;Biology 101;The Cell;"""1 Decembrie 1918"" University of Alba-Iulia"
+764;Distinguish between somatic and germ cells, and between the outcomes of cell division in these two categories of cells.;;0.47;Biology 101;The Cell;"""1 Decembrie 1918"" University of Alba-Iulia"
+765;Proteins secreted by plasma cells are called _______. (a) MHC (b) complement (c) antigens (d) cytokines (e) antibodies.;;0.96;Biology 101;The Cell;"""1 Decembrie 1918"" University of Alba-Iulia"
+766;Describe the structure and function of a generalized human somatic cell.;;0.6;Biology 101;The Cell;"""1 Decembrie 1918"" University of Alba-Iulia"
+767;(a) How are somatic cells inherited? (b) How is germinal cell inherited, from mother and father to daughter and son? ;;0.36;Biology 101;The Cell;"""1 Decembrie 1918"" University of Alba-Iulia"
+768;"Give the word derived from Greek elements that matches the following: ""Study of the (human) body"".";;0.08;Biology 101;Introduction;"""1 Decembrie 1918"" University of Alba-Iulia"
+769;The sternum is the: a) Shoulder blade b) Breast bone c) Kneecap d) Collarbone;;0.06;Biology 101;Introduction;"""1 Decembrie 1918"" University of Alba-Iulia"
+770;"Define the following word: ""brachia"".";;0.58;Biology 101;Introduction;"""1 Decembrie 1918"" University of Alba-Iulia"
+771;Discuss the difference between gross and microscopic anatomy.;;0.97;Biology 101;Introduction;"""1 Decembrie 1918"" University of Alba-Iulia"
+772;Explain the role of the liver in the formation of urea.;;0.16;Biology 101;Introduction;"""1 Decembrie 1918"" University of Alba-Iulia"
+773;What is surface anatomy? What are the various regional terms used to describe the body?;;0.19;Biology 101;Introduction;"""1 Decembrie 1918"" University of Alba-Iulia"
+774;What is an anatomical position? Describe the various directional terms like superior, inferior, medial, lateral, and so on.;;0.84;Biology 101;Introduction;"""1 Decembrie 1918"" University of Alba-Iulia"
+775;What is the direction of anterior position?;;0.4;Biology 101;Introduction;"""1 Decembrie 1918"" University of Alba-Iulia"
+776;"The subject's feet are flat on the floor and close together; arms are at his sides with _ facing forward. A. planes B. dissection C. palms D. prone E. orientation F. elbows G. position H. anatomical";;0.76;Biology 101;Introduction;"""1 Decembrie 1918"" University of Alba-Iulia"
+777;What is the correct medical term meaning 'situated at the back?';;0.33;Biology 101;Introduction;"""1 Decembrie 1918"" University of Alba-Iulia"
+778;What is the study of organs?;;0.69;Biology 101;Introduction;"""1 Decembrie 1918"" University of Alba-Iulia"
+779;Why is it important to know the external anatomy of farm animals in relation to production?;;0.25;Biology 101;Introduction;"""1 Decembrie 1918"" University of Alba-Iulia"
+780;Is the shoulder inferior to the knee?;;0.89;Biology 101;Introduction;"""1 Decembrie 1918"" University of Alba-Iulia"
+781;The gluteal region is located on the _____ surface of the body.;;0.77;Biology 101;Introduction;"""1 Decembrie 1918"" University of Alba-Iulia"
+782;The dermis is superficial to the epidermis. True False (If false, correct the statement to make it true.);;0.92;Biology 101;Introduction;"""1 Decembrie 1918"" University of Alba-Iulia"
+783;Find two positive numbers that satisfy the given requirements. The product is 185 and the sum is minimum.;;0.54;Biology 101;Introduction;"""1 Decembrie 1918"" University of Alba-Iulia"
+784;Translate g +10=3g into a verbal sentence.;;0.4;Biology 101;Introduction;"""1 Decembrie 1918"" University of Alba-Iulia"
+785;Find two consecutive even integers such that the sum of the smaller and three times the larger is 30.;;0.45;Mathematics 101;Numbers;"""1 Decembrie 1918"" University of Alba-Iulia"
+786;Determine whether the equation is an identity or a conditional equation. -7(x - 3) + 4x = 3(7 - x).;;0.88;Mathematics 101;Numbers;"""1 Decembrie 1918"" University of Alba-Iulia"
+787;Mimi is buying weather-stripping tape for some windows. How much should she buy for a window that needs 4.85m, a window that needs 4.25m, and a window that needs 2.55m?;;0.23;Mathematics 101;Numbers;"""1 Decembrie 1918"" University of Alba-Iulia"
+788;The sum of two numbers is 25, and the sum of their squares is 325. Find the numbers.;;0.34;Mathematics 101;Numbers;"""1 Decembrie 1918"" University of Alba-Iulia"
+789;When solving an equation, it is possible to introduce an ________ solution, which is a value that does not satisfy the original equation.;;0.25;Mathematics 101;Numbers;"""1 Decembrie 1918"" University of Alba-Iulia"
+790;Two negative integers are 8 units apart on the number line and have a product of 308. What equation could be used to determine x, the smaller negative integer?;;0.26;Mathematics 101;Numbers;"""1 Decembrie 1918"" University of Alba-Iulia"
+791;Twelve times a number decreased by nine is the same as nine times the number increased by six. Write the equation that represents this statement and solve it to find the number.;;0.9;Mathematics 101;Numbers;"""1 Decembrie 1918"" University of Alba-Iulia"
+792;Four less than four times a number is equal to five more than the number. Write the equation that represents this statement and solve it to find the number. ;;0.02;Mathematics 101;Numbers;"""1 Decembrie 1918"" University of Alba-Iulia"
+793;Expand the sum. sum limits_{n=0}^3 (-1)^n x^2n / (2n)!;;0.95;Mathematics 101;Numbers;"""1 Decembrie 1918"" University of Alba-Iulia"
+794;Construct a table of values for the function. Then sketch the graph of the function. f(x) = -6^{x-2};;0.24;Mathematics 101;Numbers;"""1 Decembrie 1918"" University of Alba-Iulia"
+795;Below, the two-way table is given for a class of students. If a student is selected at random, find the probability the student is a senior. Round to the nearest whole percent.;;0.29;Mathematics 101;Numbers;"""1 Decembrie 1918"" University of Alba-Iulia"
+796;What is the probability of randomly drawing a RED Face Card OR a card with a BLACK NUMBER?;;0.02;Mathematics 101;Numbers;"""1 Decembrie 1918"" University of Alba-Iulia"
+797;Solve the following quadratic equation, expressing your solution to the nearest one-thousandth. x^2 + 6 x - 38 = 0;;0.79;Mathematics 101;Numbers;"""1 Decembrie 1918"" University of Alba-Iulia"
+798;Write the equation in standard form a x^2 + b x + c = 0. -6 (4 x - 5) (x - 1) = 0;;0.25;Mathematics 101;Numbers;"""1 Decembrie 1918"" University of Alba-Iulia"
+799;Solve for x: x^(-2) - x^(-1) - 6 = 0;;0.54;Mathematics 101;Numbers;"""1 Decembrie 1918"" University of Alba-Iulia"
+800;When adding the mixed numbers 7\frac{1}{10} + 11\frac{2}{5}, how does the 2 become 4, resulting in 11\frac{4}{10} for the second fraction?;;0.15;Mathematics 101;Numbers;"""1 Decembrie 1918"" University of Alba-Iulia"
+801;Solve the equation for r. (r + 4) (r + 5) = 12;;0.59;Mathematics 101;Numbers;"""1 Decembrie 1918"" University of Alba-Iulia"
+802;Find the exponential function f(x) = Ca^x whose graph y = f(x) passes through (1, 6) and (3, 54).;;0.46;Mathematics 101;Numbers;"""1 Decembrie 1918"" University of Alba-Iulia"
+803;Find all the complex solutions of the equation. z^3 = sqrt 2 (1 + i);;0.68;Mathematics 101;Numbers;"""1 Decembrie 1918"" University of Alba-Iulia"
+804;Find the equation of the line that contains the given points. P1(8, 1), P2(6, -5);;0.52;Mathematics 101;Numbers;"""1 Decembrie 1918"" University of Alba-Iulia"
+805;The equation of the line which has an x-intercept of -2 and a y-intercept of 2 can be written in slope-intercept form as y = ___ x + _____. Round your answers to 2 decimal places.;;0.29;Mathematics 101;Numbers;"""1 Decembrie 1918"" University of Alba-Iulia"
+806;Find the equation of the line that contains the given point and has the given slope. P(-6, 20), m = -4;;0.81;Mathematics 101;Numbers;"""1 Decembrie 1918"" University of Alba-Iulia"
+807;Write the sum in expanded form. 2k-1/2k+1;;0.73;Mathematics 101;Numbers;"""1 Decembrie 1918"" University of Alba-Iulia"
+808;Use the given conditions to write an equation for the line in point-slope form and slope-intercept form. Passing through (-4, 2) and perpendicular to the line whose equation is y = 1/3 x + 7.;;0.9;Mathematics 101;Numbers;"""1 Decembrie 1918"" University of Alba-Iulia"
+809;Find the x- and y-intercepts of the graph of the equation. 9x^2 - y^2 = 144.;;0.97;Mathematics 101;Numbers;"""1 Decembrie 1918"" University of Alba-Iulia"
+810;Find the area inside r^2 = 4\sin 2\theta.;;0.88;Mathematics 101;Numbers;"""1 Decembrie 1918"" University of Alba-Iulia"
+811;A card is drawn from a standard 52 card deck. Find the probability of drawing a heart or a face card.;;0.22;Mathematics 101;Numbers;"""1 Decembrie 1918"" University of Alba-Iulia"
+812;Is The Creation of Adam an example of iconography?;;0.38;Arts;Art history;"""1 Decembrie 1918"" University of Alba-Iulia"
+813;How long have societies in human history lived with art?;;0.77;Arts;Art history;"""1 Decembrie 1918"" University of Alba-Iulia"
+814;What is art historiography?;;0.84;Arts;Art history;"""1 Decembrie 1918"" University of Alba-Iulia"
+815;How can art be used as a historical source?;;0.26;Arts;Performance arts;"""1 Decembrie 1918"" University of Alba-Iulia"
+816;What are arts-based initiative strategies? How are they useful?;;0.19;Arts;Performance arts;"""1 Decembrie 1918"" University of Alba-Iulia"
+817;Why was performance art first invented?;;0.22;Arts;Performance arts;"""1 Decembrie 1918"" University of Alba-Iulia"
+818;Why is performance art important?;;0.16;Arts;Performance arts;"""1 Decembrie 1918"" University of Alba-Iulia"
+819;Who started performance art?;;0.61;Arts;Performance arts;"""1 Decembrie 1918"" University of Alba-Iulia"
+820;When did performance art start?;;0.23;Arts;Performance arts;"""1 Decembrie 1918"" University of Alba-Iulia"
+821;When did performance art end?;;0.86;Arts;Performance arts;"""1 Decembrie 1918"" University of Alba-Iulia"
+822;What is the relationship between performance art and photography?;;0.14;Arts;Performance arts;"""1 Decembrie 1918"" University of Alba-Iulia"
+823;What is the purpose of performance art?;;0.84;Arts;Performance arts;"""1 Decembrie 1918"" University of Alba-Iulia"
+824;What is the oldest performance art in China?;;0.29;Arts;Performance arts;"""1 Decembrie 1918"" University of Alba-Iulia"
+825;What is the medium for performance art?;;0.07;Arts;Performance arts;"""1 Decembrie 1918"" University of Alba-Iulia"
+826;What is the focal point of performance art?;;0.2;Arts;Performance arts;"""1 Decembrie 1918"" University of Alba-Iulia"
+827;What is a primary element in performance art?;;0.22;Arts;Performance arts;"""1 Decembrie 1918"" University of Alba-Iulia"
+828;What is a performance art score?;;0.27;Arts;Performance arts;"""1 Decembrie 1918"" University of Alba-Iulia"
+829;What group invented performance art?;;0.59;Arts;Performance arts;"""1 Decembrie 1918"" University of Alba-Iulia"
+830;What does performance art mean?;;0.64;Arts;Performance arts;"""1 Decembrie 1918"" University of Alba-Iulia"
+831;What country did performance art develop in?;;0.35;Arts;Performance arts;"""1 Decembrie 1918"" University of Alba-Iulia"
+832;What is the definition of culture?;;0.6;Arts;Performance arts;"""1 Decembrie 1918"" University of Alba-Iulia"
+833;"Societal culture is shaped by all of these environmental factors except: A. ethnic background B. religion C. assumptions and expectations D. political; legal setting";;0.24;Arts;Performance arts;"""1 Decembrie 1918"" University of Alba-Iulia"
+834;Is cultural relativism true?;;0.7;Arts;Art movements;"""1 Decembrie 1918"" University of Alba-Iulia"
+835;"What does ""international culture"" mean and how are some of the health disparities noted in underdeveloped global communities derived from these international cultural factors? Provide examples.";;0.29;Arts;Art movements;"""1 Decembrie 1918"" University of Alba-Iulia"
+836;Explain how the dynamic interplay of nation, language, and religion shapes the culture of a country.;;0.21;Arts;Art movements;"""1 Decembrie 1918"" University of Alba-Iulia"
+837;Explain how you can have an infinite number of possible phenotypes for a given trait.;;0.64;Arts;Art movements;"""1 Decembrie 1918"" University of Alba-Iulia"
+838;How do particular food(s) become associated with nations and people?;;0.81;Arts;Art movements;"""1 Decembrie 1918"" University of Alba-Iulia"
+839;True or False: Europeans considered chocolate a powerful aphrodisiac;;0.74;Arts;Culture;"""1 Decembrie 1918"" University of Alba-Iulia"
+840;Culture is a set of inherited traits. True or False;;0.55;Arts;Culture;"""1 Decembrie 1918"" University of Alba-Iulia"
+841;What are the methods for adapting communication to different personalities, cultures, genders, and generations. Have you used these at work? Do they work? Explain;;0.97;Arts;Culture;"""1 Decembrie 1918"" University of Alba-Iulia"
+842;Why is a culture of candor especially important when a company is nearing bankruptcy?;;0.19;Arts;Culture;"""1 Decembrie 1918"" University of Alba-Iulia"
+843;Culture is to setting and context is to beliefs. \\ A. True B. False;;0.21;Arts;Culture;"""1 Decembrie 1918"" University of Alba-Iulia"
+844;Define the following term: Medical Anthropology.;;0.27;Arts;Culture;"""1 Decembrie 1918"" University of Alba-Iulia"
+845;What is a lagom? a) Day fine b) Red-tape Sweden c) Middle-road d) Everyman's right;;0.76;Arts;Culture;"""1 Decembrie 1918"" University of Alba-Iulia"
+846;Which of the following are characteristics of a traditional culture? a. lateral communication b. top-down decision-making c. loosely defined roles d. bottom-up decision-making;;0.03;Arts;Culture;"""1 Decembrie 1918"" University of Alba-Iulia"
+847;f(x) = \left(\cos (2x)\right)^{2x}. Find f'(x) using logarithmic differentiation.;;0.32;Mathematics 101;Numbers;"""1 Decembrie 1918"" University of Alba-Iulia"
+848;Let f(x) = \int_x^{x^3} e^{t^2 a} \, dt. What is the value of a that makes f'(1) = 1?;;0.82;Mathematics 101;Numbers;"""1 Decembrie 1918"" University of Alba-Iulia"
+849;Differentiate the following. Simplify. g(x) = sin^3(4x).;;0.2;Mathematics 101;Numbers;"""1 Decembrie 1918"" University of Alba-Iulia"
+850;Let f(x) =x ^{5x}. Use logarithmic differentiation to determine the derivative f'(x) and f'(1).;;0.25;Mathematics 101;Numbers;"""1 Decembrie 1918"" University of Alba-Iulia"
+851;Describe the treatment of the intercompany sale of non-depreciable assets and the sale of depreciable assets.;;0.94;Mathematics 101;Numbers;"""1 Decembrie 1918"" University of Alba-Iulia"
+852;What makes a company an active learning organization? Explain.;;0.14;Mathematics 101;Numbers;"""1 Decembrie 1918"" University of Alba-Iulia"
+853;What are the factors that affect the market value of a firm's common stock?;;0.11;Mathematics 101;Numbers;"""1 Decembrie 1918"" University of Alba-Iulia"
+854;If y = ((3x + 1)^5)/((4x + 1)^3 (x^2 + 1)^4), then y'(0) = _____. a. 3 b. -3 c. 6 d. -6 e. Else;;0.57;Mathematics 101;Numbers;"""1 Decembrie 1918"" University of Alba-Iulia"
+855;Macro Corporation and Micro Company combine, and a new organization, MM, Inc., takes their place. What happens to the assets, property, and liabilities of Micro?;;0.49;Mathematics 101;Numbers;"""1 Decembrie 1918"" University of Alba-Iulia"
+856;Macro Corporation and Micro Company combine, and a new organization, MM, Inc., takes their place. What is the term for this type of combination?;;0.24;Mathematics 101;Numbers;"""1 Decembrie 1918"" University of Alba-Iulia"
+857;Find the derivative of the following using logarithmic differentiation. f(x)= exp(x^2)/ ((sqrt(x2+1))(2x^2 +3));;0.78;Mathematics 101;Numbers;"""1 Decembrie 1918"" University of Alba-Iulia"
+858;If y = (3x + 1)^5 over (4x + 1)^3 (x^2 + 1), then find y'(0).;;0.8;Mathematics 101;Numbers;"""1 Decembrie 1918"" University of Alba-Iulia"
+859;Find the derivative of y with respect to x. y = ln((1 + sqrt x)/x^3).;;0.47;Mathematics 101;Numbers;"""1 Decembrie 1918"" University of Alba-Iulia"
+860;Find the derivative with respect to x. int_sqrt x^{x^7} sqrt u sin (u) du ;;0.25;Mathematics 101;Numbers;"""1 Decembrie 1918"" University of Alba-Iulia"
+861;The recycling of water from the oceans to the land and back is known as the a. hydraulic action. b. profile of equilibrium. c. drainage pattern. d. hydrologic cycle. e. suspended load.;;0.85;Ecology;Human Geography;University of Agronomic Sciences and Veterinary Medicine Bucharest
+862;Which orogeny was not involved in the closing of the Iapetus Ocean? a. Acadian. b. Alleghenian. c. Antler. d. Caledonian. e. Taconic.;;0.91;Ecology;Human Geography;University of Agronomic Sciences and Veterinary Medicine Bucharest
+863;Explain the differences between physical and human geography. Provide examples to support your answers.;;0.87;Ecology;Human Geography;University of Agronomic Sciences and Veterinary Medicine Bucharest
+864;What two basic questions does geography answer? Next, name the two branches of geography and provide at least four examples of what each would specifically study.;;0.63;Ecology;Human Geography;University of Agronomic Sciences and Veterinary Medicine Bucharest
+865;Are hydrology and hydrogeology the same?;;0.04;Ecology;Human Geography;University of Agronomic Sciences and Veterinary Medicine Bucharest
+866;What features are associated with flood plains and how are these features created?;;0.4;Ecology;Human Geography;University of Agronomic Sciences and Veterinary Medicine Bucharest
+867;Is hydrography closer to geophysics or geology?;;0.08;Ecology;Human Geography;University of Agronomic Sciences and Veterinary Medicine Bucharest
+868;What is Greater India?;;0.06;Ecology;Human Geography;University of Agronomic Sciences and Veterinary Medicine Bucharest
+869;How do geomorphic fluvial and biogeography interact with each other?;;0.95;Ecology;Human Geography;University of Agronomic Sciences and Veterinary Medicine Bucharest
+870;Who was Strabo?;;0.52;Ecology;Human Geography;University of Pitesti
+871;What did Strabo write?;;0.28;Ecology;Human Geography;University of Pitesti
+872;What did Strabo do for geography?;;0.71;Ecology;Human Geography;University of Pitesti
+873;How did Strabo die?;;0.33;Ecology;Human Geography;University of Pitesti
+874;What are weathering erosion and stream capture examples of?;;0.54;Ecology;Human Geography;University of Pitesti
+875;What is the difference between morphometry and geomorphology?;;0.56;Ecology;Human Geography;University of Pitesti
+876;How does chaos theory impact geography?;;0.89;Ecology;Human Geography;University of Pitesti
+877;How does the anthroposphere affect the biosphere?;;0.95;Ecology;Human Geography;University of Pitesti
+878;What is geography the study of?;;0.26;Ecology;Human Geography;University of Pitesti
+879;How does special relativity-time dilation play a role in GPS systems?;;0;Physics 101;Quantum mechanics;University of Pitesti
+880;How can someone's perceptions of psychology have changed since the beginning, when they didn't know much until they better understood the subject?;;0.51;Basic Psychology;Social psychology;"""1 Decembrie 1918"" University of Alba-Iulia"
+881;Psychology's four goals include all of the following except ________. a. prediction. b. control. c. explanation. d. prescription.;;0.47;Basic Psychology;Social psychology;"""1 Decembrie 1918"" University of Alba-Iulia"
+882;The field of psychology tends to favor the use of direct observation over reasoning as a means of gaining knowledge about behavior. a. True. b. False.;;0.6;Basic Psychology;Social psychology;"""1 Decembrie 1918"" University of Alba-Iulia"
+883;Professor Shimizu started her lecture by presenting the four main goals of Psychology: To describe, explain, predict, and change behavior. He tells his students that psychologists use these goals a...;;0.19;Basic Psychology;Social psychology;"""1 Decembrie 1918"" University of Alba-Iulia"
+884;Professor Hechavarria studies the immunological health of people who live and work in submarines. One of his findings is that cramped quarters can affect mood and memory. He also states that the sa...;;0.05;Basic Psychology;Social psychology;"""1 Decembrie 1918"" University of Alba-Iulia"
+885;Psychological thinkers understand that behavior is complex and accept ambiguity. A. True B. False;;1;Basic Psychology;Social psychology;"""1 Decembrie 1918"" University of Alba-Iulia"
+886;According to Leary (1987), what were the main things the early proponents of modern psychology need to convince university boards of?;;0.39;Basic Psychology;Social psychology;"""1 Decembrie 1918"" University of Alba-Iulia"
+887;What is meant by the quantitative imperative in psychology?;;0.71;Basic Psychology;Social psychology;"""1 Decembrie 1918"" University of Alba-Iulia"
+888;What are rationalism and its role as a way of knowing in modern psychology? Explain.;;0.28;Basic Psychology;Social psychology;"""1 Decembrie 1918"" University of Alba-Iulia"
+889;What does Stanovich (2004) mean when he says psychology has unity in science? Explain.;;0.29;Basic Psychology;Social psychology;"""1 Decembrie 1918"" University of Alba-Iulia"
+890;What is the purpose of a research study in psychology? Explain.;;0.85;Basic Psychology;Social psychology;"""1 Decembrie 1918"" University of Alba-Iulia"
+891;"Suppose damage to brain area ""A"" leaves someone unable to recognize faces, but does not affect the ability to recognize everyday objects.";;0.24;Basic Psychology;Social psychology;"""1 Decembrie 1918"" University of Alba-Iulia"
+892;What is neurodiversity?;;0.01;Basic Psychology;Social psychology;"""1 Decembrie 1918"" University of Alba-Iulia"
+893;Progress in Psychology often depends on: a. the majority opinion of experts in that particular psychological specialty. b. the development of suitable research methods. c. the use of common sense a...;;0.08;Basic Psychology;Social psychology;"""1 Decembrie 1918"" University of Alba-Iulia"
+894;What is meant by person-environment fit?;;0.04;Basic Psychology;Social psychology;"""1 Decembrie 1918"" University of Alba-Iulia"
+895;How does personal development relate to psychology? Explain.;;0.96;Basic Psychology;Social psychology;"""1 Decembrie 1918"" University of Alba-Iulia"
+896;Answer true or false: The four elements of the MARS model are motivation, ability, role perceptions, and situational factors.;;0.52;Basic Psychology;Social psychology;"""1 Decembrie 1918"" University of Alba-Iulia"
+897;"""Why questions"" refer to which of psychology's goals?";;0.05;Basic Psychology;Social psychology;"""1 Decembrie 1918"" University of Alba-Iulia"
+898;Which of the following is a career option with a bachelor's degree in Psychology? A. Clinical Psychologist B. Academic Advisor C. Forensic Psychologist D. All of the above;;0.72;Basic Psychology;Social psychology;"""1 Decembrie 1918"" University of Alba-Iulia"
+899;Discuss the methodology used in the early social psychological experiments with attention to ethical dilemmas related to the conduction of the research.;;0.68;Basic Psychology;Social psychology;University of Pitesti
+900;Social norms develop in a group and community and the nature of the human being is to “go along with the crowd”. Using studies and theories discussed in the chapter on the social psychology of groups to expand upon the above statement.;;0.15;Basic Psychology;Social psychology;University of Pitesti
+901;Describe the work of Kurt Lewin, his contributions, and legacy.;;0.55;Basic Psychology;Social psychology;University of Pitesti
+902;Explain why soldiers are willing to fight from a social psychological point of view.;;0.92;Basic Psychology;Social psychology;University of Pitesti
+903;What can we learn about conflict resolution from the Robber’s Cave Experiment?;;0.22;Basic Psychology;Social psychology;University of Pitesti
+904;Compare one of the group experiments to one of the films that depicts group behaviors (The Lord of the Flies, Fight Club, Do the Right Thing, Boys Don’t Cry).;;0.09;Basic Psychology;Social psychology;University of Pitesti
+905;From an ethical standpoint, consider how Festinger studied personal reactions when prophecy fails. Use the Belmont Report guide in your discussion.;;0.2;Basic Psychology;Social psychology;University of Pitesti
+906;Account for the Jewish background in several of the social psychologists whose work was presented in this text and how this history impacted their research.;;0.16;Basic Psychology;Social psychology;University of Pitesti
+907;Explain why people conform to the group even when it goes against their personal beliefs.;;0.87;Basic Psychology;Social psychology;University of Pitesti
+908;Relate findings on group conformity to the process of jury deliberation.;;0.76;Law;Law principles;University of Pitesti
+909;What can we learn from Zimbardo’s simulation experiment that relates to one of Goffman’s major insights?;;0.04;Law;Law principles;University of Pitesti
+910;Discuss why some of the social science research conducted in the past could not be replicated today.;;0.11;Law;Law principles;University of Pitesti
+911;Discuss Tavris and Aronson’s concept of self-justification as it relates to the Milgram experiment.;;0.66;Law;Law principles;University of Pitesti
+912;From a sociological standpoint discuss lessons in human behavior from Hurricane Katrina (from the boxed reading).;;0.14;Law;Law principles;University of Pitesti
+913;Discuss and offer examples of both the positive and negative implications of group conformity. Discuss the potential for political use of the power of the group for social control.;;0.32;Law;Law principles;University of Pitesti
+914;Discuss an example you have seen in the news in which group conformity can be seen. Give specific examples, do you think this had positive or negative implications? For whom? Use the theories from the chapter as back up for your claims.;;0.72;Law;Law principles;University of Pitesti
+915;Give your opinion on the KWRU project in North Philadelphia. What is controversial about this form of social action?;;0.85;Law;Law principles;University of Pitesti
+916;Define culture and explain how culture and community are intertwined.;;0.78;Law;Law principles;University of Pitesti
+917;What is the significance of cultural competence to social workers? Refer to the NASW Code of Ethics.;;0.11;Law;Law principles;University of Pitesti
+918;Based on survey research, what are attitudes toward the U.S. and U.S.foreign policy?;;0.82;Law;Law principles;University of Pitesti
+919;Discuss Margaret Mead’s concept of cultural patterns and understanding a new culture.;;0.66;Law;Law principles;University of Pitesti
+920;Discuss one of the U.S. value dimensions described in the text which you think is an accurate description of U.S. cultural values.;;0.58;Law;Law principles;University of Pitesti
+921;Put the U.S. Protestant work ethic in historical perspective. What is the connection to capitalism?;;0.19;Law;Law principles;University of Pitesti
+922;How does John Tropman differentiate Catholic ethic from Protestant ethic? Do you agree or disagree with his argument?;;0.24;Law;Law principles;University of Pitesti
+923;What does U.S. census data tell us about income gaps between rich and poor? How do means-tested programs fail to eliminate poverty?;;0.1;Law;Law principles;University of Pitesti
+924;Discuss equality and cooperation as Norwegian compared to U.S. values. What is the cultural significance of the man arrested for drinking and driving who had to pay a fine of over $100,000?;;0.99;Law;Law principles;University of Pitesti
+925;Compared to some other cultures, are Americans more inclined toward individualism or collectivism? Document your arguments.;;0.28;Law;Law principles;University of Pitesti
+926;Discuss the basic thesis of Thomas Frank’s What’s the Matter with Kansas? How can some working class people be manipulated into voting for representatives of big business?;;0.15;Law;Law principles;University of Pitesti
+927;How is the culture of Appalachia distinct? How does economics affect intergenerational attitudes toward education and work?;;0.09;Law;Law principles;University of Pitesti
+928;Darin is experiencing personal financial problems. The amount of income he receives from his corporation is barely sufficient to cover his living expenses, the payments due on his mortgage, various...;;0.16;Law;Law principles;University of Pitesti
+929;In what two ways can an amendment to the U.S. Constitution be proposed?;;0.8;Law;Law principles;University of Pitesti
+930;What is wage garnishment?;;0.75;Law;Law principles;University of Pitesti
+931;"Answer the following question by offering two criminology theories to explain it: ""Not every crime is harmful, and not every harmful action is criminalized. Why?""";;0.22;Law;Law principles;University of Pitesti
+932;What are the various stages of a criminal trial?;;0.07;Law;Law principles;University of Pitesti
+933;What is the watchman style of policing?;;0.96;Law;Law principles;University of Pitesti
+934;What is the legalistic style of policing?;;0.17;Law;Law principles;University of Pitesti
+935;What are the three styles of policing?;;0.41;Law;Law principles;University of Pitesti
+936;What does exonerate mean?;;0.16;Law;Law principles;University of Pitesti
+937;What is the legal definition of rape?;;0.24;Law;Law principles;University of Pitesti
+938;Summarize Bowen v. Paramount Builders;;0.23;Law;Law principles;University of Pitesti
+939;Summarize Western Union Telegraph Co. v. Hill;;0.06;Law;Law principles;University of Pitesti
+940;What is civil law?;;0.15;Law;Law principles;University of Pitesti
+941;What is voir dire?;;0.01;Law;Law principles;University of Pitesti
+942;Why might a person declare personal bankruptcy?;;0.7;Law;Law principles;University of Pitesti
+943;What is chapter 13 bankruptcy?;;0.36;Law;Law principles;University of Pitesti
+944;What is chapter 7 bankruptcy?;;0.55;Law;Law principles;University of Pitesti
+945;What is bankruptcy?;;0.09;Law;Law principles;University of Pitesti
+946;Who is Cesare Lombroso?;;0.69;Law;Law principles;University of Pitesti
+947;Explain the four steps of the career management process.;;0.31;Law;Law principles;University of Pitesti
+948;When and who introduce the Stewardship Theory?;;0.06;Law;Law principles;University of Pitesti
+949;Explain the critical differences between service and manufacturing.;;0.59;Economics 101;Production;University of Agronomic Sciences and Veterinary Medicine Bucharest
+950;When an organization undergoes a change, what are some common reactions from employees and customers?;;0.07;Economics 101;Production;University of Agronomic Sciences and Veterinary Medicine Bucharest
+951;Define motivation. What are the sources of motivation? What are the types of motivation? Explain in depth using examples.;;0.53;Basic Psychology;Social psychology;University of Pitesti
+952;Incentives matter: a. only when people are greedy and selfish. b. only in a free market system. c. only in the private sector. d. to all human beings regardless of the environment.;;0.8;Basic Psychology;Social psychology;University of Pitesti
+953;Describe a scenario where a supposedly irrelevant factor influenced your decision.;;0.02;Basic Psychology;Social psychology;University of Pitesti
+954;Define value-based leadership.;;0.48;Management;Leadership;University of Agronomic Sciences and Veterinary Medicine Bucharest
+955;Replacement analysis and retention is a decision method to select one of two or more new equipment. a. True b. False;;0.1;Management;Analysis;University of Agronomic Sciences and Veterinary Medicine Bucharest
+956;Group theory requires that symmetry operations satisfy the associative law. (a) Do they satisfy the commutative law? That is, does a different order of the same symmetry operations always yield th...;;0.34;Law;Law principles;University of Pitesti
+957;How are budgets related to organizational strategies?;;0.5;Management;Leadership;University of Agronomic Sciences and Veterinary Medicine Bucharest
+958;In the context of business, what is meant by asset allocation? How important is this decision-making?;;0.87;Management;Leadership;University of Agronomic Sciences and Veterinary Medicine Bucharest
+959;What is meant by the term service level in accounting?;;0.51;Management;Leadership;University of Agronomic Sciences and Veterinary Medicine Bucharest
+960;What is imprinting? Give an example. A. fixed association, such as hatching ducks recognizing the first animal they see as their mother B. a learned behavior, such as a wasp circling during a searc...;;0.87;Management;Leadership;University of Agronomic Sciences and Veterinary Medicine Bucharest
+961;DeShawn has high job satisfaction and enjoys he is able to be creative and self-directed at his job. DeShawn is probably in: a) job satisfaction is unrelated to socioeconomic status. b) a middle-cl...;;0.48;Management;Leadership;University of Agronomic Sciences and Veterinary Medicine Bucharest
+962;Differentiate among the type and levels of management, and the responsibilities of managers at different levels in the organizational hierarchy.;;0.6;Management;Leadership;University of Agronomic Sciences and Veterinary Medicine Bucharest
+963;Determine whether the following statement is true or false: The final step in management's decision-making process is to actually make the decision. If false, indicate how to correct the statement.;;0.58;Management;Leadership;University of Agronomic Sciences and Veterinary Medicine Bucharest
+964;Define value-based leadership.;;0.37;Management;Leadership;University of Agronomic Sciences and Veterinary Medicine Bucharest
+965;An autocratic leader usually is known for all of these traits except: a. Listens well. b. Offers threats. c. Has tight control. d. Drives talent away.;;0.36;Management;Leadership;University of Agronomic Sciences and Veterinary Medicine Bucharest
+966;Indicate two benefits and two drawbacks of pacesetting leadership.;;0.56;Management;Leadership;University of Agronomic Sciences and Veterinary Medicine Bucharest
+967;Compare and contrast situational, path-goal and leader-member exchange approaches to leadership. Explain the strengths and weaknesses of each. Provide real-world examples, showing in what setting e...;;0.31;Management;Leadership;University of Agronomic Sciences and Veterinary Medicine Bucharest
+968;What are the traits of loyalty leadership?;;0.46;Management;Leadership;University of Agronomic Sciences and Veterinary Medicine Bucharest
+969;What are the traits of motivational leadership?;;0.38;Management;Leadership;University of Agronomic Sciences and Veterinary Medicine Bucharest
+970;What are the traits of compassionate leadership?;;0.43;Management;Leadership;University of Agronomic Sciences and Veterinary Medicine Bucharest
+971;How is the effective rate of interest implicit in a lease agreement determined?;;0;Management;Leadership;University of Agronomic Sciences and Veterinary Medicine Bucharest
+972;Compare and contrast Jack Ma's leadership style with that of Steve Jobs.;;0.21;Management;Leadership;University of Agronomic Sciences and Veterinary Medicine Bucharest
+973;When a leader possesses a strong _______, this means the leader holds him/herself responsible for his/her own actions, believes in personal accountability, and is willing to accept the consequences...;;0.77;Management;Leadership;University of Agronomic Sciences and Veterinary Medicine Bucharest
+974;Answer true or false: If a leader decides to demonstrate a sense of humor, the best way to do so would be to publicly make fun of other people and mistakes they have made.;;0.3;Management;Leadership;University of Agronomic Sciences and Veterinary Medicine Bucharest
+975;What is leadership?;;0.41;Management;Leadership;University of Agronomic Sciences and Veterinary Medicine Bucharest
+976;Which two schools of thought have largely disappeared from contemporary psychology? a) behaviorism, Gestalt b) humarism, cognitive behaviorism c) structuralism, functionalism d) structuralism, huma...;;0.56;Basic Psychology;Educational psychology;"""1 Decembrie 1918"" University of Alba-Iulia"
+977;How can goals be used as a basis for planning in early childhood education?;;0.5;Basic Psychology;Educational psychology;"""1 Decembrie 1918"" University of Alba-Iulia"
+978;Does the portion download appendixes in an audio format improve the quality of your educational experience?;;0.66;Basic Psychology;Educational psychology;"""1 Decembrie 1918"" University of Alba-Iulia"
+979;What is unique about a community psychology perspective?;;0.49;Basic Psychology;Educational psychology;"""1 Decembrie 1918"" University of Alba-Iulia"
+980;Why can some students not digest difficult concepts and others can easily? Are there any biological and genetic reasons?;;0.28;Basic Psychology;Educational psychology;"""1 Decembrie 1918"" University of Alba-Iulia"
+981;Explain the meaning of the term biological psychology.;;0.24;Basic Psychology;Educational psychology;"""1 Decembrie 1918"" University of Alba-Iulia"
+982;Define educational psychology and explain its role in shaping learning and instructions.;;0.66;Basic Psychology;Educational psychology;"""1 Decembrie 1918"" University of Alba-Iulia"
+983;Why do we need research in educational psychology?;;0.52;Basic Psychology;Educational psychology;"""1 Decembrie 1918"" University of Alba-Iulia"
+984;How does religion affect the education system?;;0.11;Basic Psychology;Educational psychology;"""1 Decembrie 1918"" University of Alba-Iulia"
+985;"Who is responsible for coining the phrase ""curriculum-based measurement/assessment""?";;0.9;Basic Psychology;Statistics;University of Agronomic Sciences and Veterinary Medicine Bucharest
+986;What do face validity and content validity have in common?;;0.32;Basic Psychology;Statistics;University of Agronomic Sciences and Veterinary Medicine Bucharest
+987;A researcher developed a program to train dogs and finds that it works really well in the lab. However, the program does not work when he uses it in a busy dog park. Testing in the researcher's lab...;;0.63;Basic Psychology;Statistics;University of Agronomic Sciences and Veterinary Medicine Bucharest
+988;The validity of a study can be evaluated in a number of ways. What are some examples?;;0.68;Basic Psychology;Statistics;University of Agronomic Sciences and Veterinary Medicine Bucharest
+989;How can a counselor determine that a specific test is an appropriate test for a client's demographic?;;0.31;Basic Psychology;Statistics;University of Agronomic Sciences and Veterinary Medicine Bucharest
+990;The reliability factor table provides factors for as many as three computations when planning and evaluating the results of a PPS sample. Describe in general terms each of these computations.;;0.33;Basic Psychology;Statistics;University of Agronomic Sciences and Veterinary Medicine Bucharest
+991;Why is subsistence farming less efficient than commercial farming?;;0.47;Basic Psychology;Statistics;University of Agronomic Sciences and Veterinary Medicine Bucharest
+992;When did subsistence farming begin?;;0.43;Basic Psychology;Statistics;University of Agronomic Sciences and Veterinary Medicine Bucharest
+993;What type of subsistence farming is found in the Philippines?;;0.91;Basic Psychology;Statistics;"""1 Decembrie 1918"" University of Alba-Iulia"
+994;What led hunters and gatherers to switch to subsistence farming?;;0.71;Basic Psychology;Statistics;"""1 Decembrie 1918"" University of Alba-Iulia"
+995;What is the difference between commercial and subsistence farming?;;0.76;Basic Psychology;Statistics;"""1 Decembrie 1918"" University of Alba-Iulia"
+996;What is intensive subsistence farming?;;0.18;Basic Psychology;Statistics;"""1 Decembrie 1918"" University of Alba-Iulia"
+997;Does Switzerland use commercial or subsistence farming?;;0.99;Basic Psychology;Statistics;"""1 Decembrie 1918"" University of Alba-Iulia"
+998;Is subsistence farming practiced in Africa?;;0.9;Basic Psychology;Statistics;"""1 Decembrie 1918"" University of Alba-Iulia"
+999;Is subsistence farming intensive or extensive?;;0.34;Basic Psychology;Statistics;"""1 Decembrie 1918"" University of Alba-Iulia"
+1000;Is intensive subsistence farming an example of commercial farming?;;0.67;Basic Psychology;Statistics;"""1 Decembrie 1918"" University of Alba-Iulia"
