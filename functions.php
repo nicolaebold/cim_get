@@ -124,7 +124,23 @@ function valid($chr){
 
 
 //functii de calcul indicatori
-
+function corr($a, $b) {
+    $sum_ab = 0;
+    $sum_a = 0;
+    $sum_b = 0;
+    $sum_a_sqr = 0;
+    $sum_b_sqr = 0;
+    $n = min(array(count($a), count($b)));
+    for ($i = 0; $i < $n; $i++) {
+        if (!isset($a[$i]) || !isset($b[$i])) { continue; }
+        $sum_ab += $a[$i] * $b[$i];
+        $sum_a += $a[$i];
+        $sum_b += $b[$i];
+        $sum_a_sqr += pow($a[$i], 2);
+        $sum_b_sqr += pow($b[$i], 2);
+    }
+    return ($sum_ab/$n - $sum_a/$n * $sum_b/$n) / (sqrt($sum_a_sqr/$n - pow($sum_a/$n, 2)) * sqrt($sum_b_sqr/$n - pow($sum_b/$n, 2)));
+}
 
 
 //functii de afisare
