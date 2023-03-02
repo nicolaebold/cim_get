@@ -142,14 +142,16 @@ echo '<div class="row">';
                 
                 $nl = (int)(0.27 * count($scoruri));
                 
-               $uc_q = 0;
+               $uc_q = 0; $ucq = array();
                 for($j = 0; $j < $nl; $j++){
                     $uc_q += $corecte[$j];
+                    $ucq[] = $corecte[$j];
                 }
                 
-                $lc_q = 0;
+                $lc_q = 0; $lcq = array();
                 for($j = (count($scoruri) - $nl); $j < count($scoruri); $j++){
                     $lc_q += $corecte[$j];
+                    $lcq[] = $corecte[$j];
                 }
                 
                 if($score)
@@ -158,7 +160,8 @@ echo '<div class="row">';
                 
                 if($score)
                     $st_d = number_format(sqrt( ($score * $p - $avg) / $score),2);
-                    
+                
+                //$pbs = corr($ucq,$lcq);
                 $pbs = 0;
                 
                 echo '<tr>
@@ -172,7 +175,7 @@ echo '<div class="row">';
                         <td>'.$st_d.'</td>
                         <td>'.number_format($d_q,2).'</td>
                         <td>'.number_format($pbs,2).'</td>
-                        <td>'.$score.'</td>
+                        <td>'.number_format($pbs,2).'</td>
                     </tr>';
             }
             
